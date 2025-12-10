@@ -1,0 +1,17 @@
+--- 
+title: "Radiologian tärpit"
+author: "Remo Kapanen"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: 
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+---
+
+# About 
+
+Uudelleenrakennetut tärpit löytyy [täältä](https://c7-opas.netlify.app/images/RAD_T%C3%A4rpit_Vastattuna.pdf) pdf-muodossa. 

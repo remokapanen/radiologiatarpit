@@ -1,0 +1,155 @@
+<script>
+// Click-to-reveal solution functionality
+function toggleSolution(button) {
+  // Try to find solution container - first with .solution class, then by finding parent with .solution-content
+  let solution = button.closest('.solution');
+  
+  // Fallback: if no .solution class found, find parent that contains .solution-content
+  if (!solution) {
+    let parent = button.parentElement;
+    while (parent && parent !== document.body) {
+      const content = parent.querySelector('.solution-content');
+      if (content) {
+        solution = parent;
+        // Add the solution class if missing
+        if (!solution.classList.contains('solution')) {
+          solution.classList.add('solution');
+        }
+        break;
+      }
+      parent = parent.parentElement;
+    }
+  }
+  
+  if (!solution) {
+    console.error('Solution container not found');
+    return;
+  }
+  
+  const content = solution.querySelector('.solution-content');
+  if (!content) {
+    console.error('Solution content not found');
+    return;
+  }
+  
+  const isRevealed = content.classList.contains('revealed');
+  
+  if (isRevealed) {
+    content.classList.remove('revealed');
+    button.classList.remove('revealed');
+    const label = button.getAttribute('data-label');
+    button.textContent = label ? label : (button.textContent.includes('Piilota') ? 'Vastaus' : 'Click to reveal answer');
+  } else {
+    content.classList.add('revealed');
+    button.classList.add('revealed');
+    const hideLabel = button.getAttribute('data-hide-label');
+    if (hideLabel) {
+      button.textContent = hideLabel;
+    } else if (button.textContent === 'Vastaus') {
+      button.textContent = 'Piilota vastaus';
+    } else {
+      button.textContent = 'Click to hide answer';
+    }
+  }
+}
+
+// Event delegation handler (named function so we can remove it if needed)
+var solutionClickHandler = function(e) {
+  var button = null;
+  if (e.target.classList && e.target.classList.contains('solution-button')) {
+    button = e.target;
+  } else if (e.target.closest) {
+    button = e.target.closest('.solution-button');
+  }
+  
+  if (button) {
+    e.preventDefault();
+    e.stopPropagation();
+    toggleSolution(button);
+  }
+};
+
+// Use event delegation for click handling (works with dynamically added content)
+function setupEventDelegation() {
+  // Use jQuery if available (better event delegation)
+  if (typeof jQuery !== 'undefined') {
+    jQuery(document).off('click', '.solution-button').on('click', '.solution-button', function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+      toggleSolution(this);
+    });
+    return;
+  }
+  
+  // Vanilla JS event delegation - remove old listener first if it exists
+  document.removeEventListener('click', solutionClickHandler, true);
+  document.addEventListener('click', solutionClickHandler, true);
+}
+
+// Initialize solution buttons
+function initializeSolutions() {
+  // Remove onclick handlers and ensure buttons have proper structure
+  const solutionButtons = document.querySelectorAll('.solution-button');
+  solutionButtons.forEach(function(button) {
+    // Remove old onclick if exists (we'll use event delegation instead)
+    button.removeAttribute('onclick');
+    
+    // Ensure the parent has the solution class if it has solution-content
+    const parent = button.parentElement;
+    if (parent && parent.querySelector('.solution-content') && !parent.classList.contains('solution')) {
+      parent.classList.add('solution');
+    }
+  });
+}
+
+// Setup event delegation (works with dynamically loaded content)
+setupEventDelegation();
+
+// Initialize on page load
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', function() {
+    initializeSolutions();
+    setupEventDelegation();
+  });
+} else {
+  initializeSolutions();
+  setupEventDelegation();
+}
+
+// Re-initialize when GitBook page changes (for dynamic content loading)
+// Use jQuery if available (GitBook provides it)
+(function setupGitBookIntegration() {
+  // Try using jQuery (GitBook provides this)
+  if (typeof jQuery !== 'undefined') {
+    jQuery(document).ready(function($) {
+      initializeSolutions();
+      setupEventDelegation();
+      
+      // Re-initialize when GitBook changes pages
+      if (typeof gitbook !== 'undefined' && gitbook.events) {
+        gitbook.events.bind('page.change', function() {
+          setTimeout(function() {
+            initializeSolutions();
+            setupEventDelegation();
+          }, 100);
+        });
+      }
+    });
+    return;
+  }
+  
+  // Fallback: wait for GitBook to be available
+  setTimeout(function() {
+    if (typeof gitbook !== 'undefined' && gitbook.events) {
+      gitbook.events.bind('page.change', function() {
+        setTimeout(function() {
+          initializeSolutions();
+          setupEventDelegation();
+        }, 100);
+      });
+    }
+  }, 500);
+})();
+</script>
+
+

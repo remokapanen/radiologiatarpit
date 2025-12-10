@@ -1,0 +1,79 @@
+p.caption {
+  color: #777;
+  margin-top: 10px;
+}
+p code {
+  white-space: inherit;
+}
+pre {
+  word-break: normal;
+  word-wrap: normal;
+}
+pre code {
+  white-space: inherit;
+}
+
+/* Click-to-reveal solution styles */
+.solution {
+  margin: 1.5em 0;
+  border: 1px solid #e1e4e8;
+  border-radius: 6px;
+  background-color: #f6f8fa;
+  padding: 0;
+  overflow: hidden;
+}
+
+.solution-button {
+  width: 100%;
+  padding: 12px 16px;
+  background-color: #0366d6;
+  color: white;
+  border: none;
+  border-radius: 6px 6px 0 0;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 600;
+  text-align: left;
+  transition: background-color 0.2s ease;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.solution-button:hover {
+  background-color: #0256c2;
+}
+
+.solution-button:active {
+  background-color: #014a9f;
+}
+
+.solution-button::after {
+  content: "▶";
+  font-size: 10px;
+  transition: transform 0.2s ease;
+  margin-left: auto;
+}
+
+.solution-button.revealed::after {
+  transform: rotate(90deg);
+}
+
+.solution-content {
+  display: none;
+  padding: 16px;
+  background-color: white;
+  border-top: 1px solid #e1e4e8;
+}
+
+.solution-content.revealed {
+  display: block;
+}
+
+.solution-content p:first-child {
+  margin-top: 0;
+}
+
+.solution-content p:last-child {
+  margin-bottom: 0;
+}
