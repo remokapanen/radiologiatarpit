@@ -14,4 +14,4 @@ github-repo: rstudio/bookdown-demo
 
 # About 
 
-Uudelleenrakennetut tärpit löytyy [täältä](https://c7-opas.netlify.app/images/RAD_T%C3%A4rpit_Vastattuna.pdf) pdf-muodossa. 
+Uudelleenrakennetut tärpit löytyy [täältä](https://c7-opas.netlify.app/images/RAD_T%C3%A4rpit_Vastattuna.pdf) pdf-muodossa. Muokkaan sen joskus samanlaiseksi kuin muut tärppirebuildit, mutta tällä hetkellä se on vielä kömpelönä pdf-tiedostona. 
