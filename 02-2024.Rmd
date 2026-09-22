@@ -1,0 +1,380 @@
+# 2024 
+
+## Mikä luu murtuu orbitan blow out murtumassa? {#Blow-out}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+**Orbitan pohja; yleensä maxilla.** 
+
+Myös periaatteessa jokin muu seinämä voi pettää. Blow out -murtuma siis tarkoittaa, että silmään osunut isku aiheuttaa orbitansisäisen paineen nousun ja silmäkuopan seinämän murtumisen. Yleisimmin murtuu pohja, toiseksi yleisimmin mediaaliseinämä. 
+
+![](images/blowout1.png)
+![](images/blowout2.png)
+
+  </div>
+</div>
+
+## Mitä HU-yksikkö kuvaa? {#HU}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Kudoksen tiheyttä TT-kuvassa. Tämä TT-luku siis ilmoitetaan HU-yksiköissä eli Hounsfield Unit:eissa.
+
+![](images/ttluku.png)
+![](images/hounsfield.png)
+  </div>
+</div>
+
+## Miksi TT:ssä potilas saa liikkua vaikka MRI ei? {#TT-liikkua}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+TT on nopea -> liikkuminen ei ehdi vaikuttamaan merkittävästi
+
+Magneettikuva on hidas ja siinä liikkuminen myös häiritsee koko kehon magneettikenttää -> koko kuva häiriintyy (vrt. TT, jossa liikkuminen vaikuttaa vain kuvattavaan tasoon) 
+  </div>
+</div>
+
+## UÄ-tutkimuksen edut MRI verrattuna? {#UAVSMRI}
+
+- a. ei ionisoivaa säteilyä
+- b. potilas voi liikkua
+- c. parempi pehmytkudoskontrasti
+- d. joku
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      b
+
+a: Molemmat ovat ei-ionisoivia tutkimuksia 
+
+c: MRI:ssä on kuvantamismenetelmistä paras pehmytkudoskontrasti
+  </div>
+</div>
+
+## Minkä elimen repeämä on vaikea havaita TT:llä? {#Repeama}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+
+Vaikeita ovat mm. haima (yleensä vaikein parenkyymielimistä), suolisto, pallea, rakko
+
+Taas esim. pernan repeämä useimpien lähteiden mukaan taas helppo nähdä
+  </div>
+</div>
+
+## Minkä luun luutumista TT kuvaa parhaiten?
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+Jos vaihtoehdoissa on **telaluu (talus),** niin se on todennäköisesti vastaus (TT-kuva on hyvä sen (rasitus)murtumien seurannassa). Yleisesti TT hyvä kortikaalisen luun seurannassa (kuoriluu on tiheää ja sen katkeaminen näkyy selvästi TT:ssä). TT on myös usein käytetty esim. **veneluun** murtuman paranemisen seurannassa.
+
+MK taas hyvä esim. rangan rasitusmurtumien seurannassa
+  </div>
+</div>
+
+## Mihin luuhun Böhlerin kulma liittyy? {#Bohler}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+**Kantaluuhun (calcaneus);** käytetään intra-artikulaaristen kalkaneus-murtumien arvioimisessa.
+
+Normaalisti Böhlerin kulma on 25-40 astetta; pieni kulma liittyy dislokoituneisiin murtumiin. 
+
+![](images/bohler.png)
+  </div>
+</div>
+
+## Mitä tapahtuu torusmurtumassa? {#Torus}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Luu taipuu ja **ääriviivaan tulee ryppy** ("vekki", torus) koveralle puolelle. Kohtisuora voima voi aiheuttaa myös pienen kasaan painumisen. 
+
+Lapsille tyypillinen murtuma, ei tarvitse reponoida tai kontrolloida kuvantamalla. Usein esim. ranteen torusmurtumissa hoidoksi riittää kivunhoidoksi 1-3 viikon tarrakiinnitteinen ortoosi tai dorsaalinen kipsilasta. 
+
+![](images/torus2.png)
+  </div>
+</div>
+
+## Mikä on pajunvitsamurtuma? {#Pajunvitsa}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+**Luu taipuu ja kuperalle puolelle tulee korteksin katkeama (greenstick).** Lapsille tyypillinen murtuma periostin vahvuuden takia. 
+
+Pajunvitsamurtuma samoin kuin poikkimurtumakin voi vaatia asennon korjaamista (vrt. torus), jos spontaani korjautuminen eli remodellaatio ei todennäköisesti tulisi korjaamaan virheasentoa. 
+
+![](images/torus1.png)
+![](images/torus3.png)
+  </div>
+</div>
+
+## Kummassa UÄ kulkee nopeammin, ilmassa vai kudoksessa? {#UAILMAVSKUDOS}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+**Kudoksessa** (ääni kulkee sitä nopeammin, mitä tiheämpi kudos, koska värähtelyt siirtyvät nopeammin atomien välillä)
+
+Kudoksessa tarkemmin ottaen n. 1540 m/s, ilmassa 340 m/s
+  </div>
+</div>
+
+## Mikä kudos on herkin säteilylle? {#Herkin}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Herkimpiä: **keuhkot, luuydin, mahalaukku, paksusuoli, rinnat (herkkyyskerroin 0,12) ja sukupuolirauhaset (herkkyyskerroin 0,08).** Yleisesti ottaen jakautuva solukko on herkkää säteilylle. 
+
+  </div>
+</div>
+
+## Hevonen astunut jalan päälle, turvotusta. mikä kuvantamistutkimus ensisijainen? {#Hevonen}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      RTG
+
+Voi periaatteessa olla TT, mutta RTG on yleensä ensisijainen kaikissa raajojen traumaattisissa murtumaepäilyssä. Vaikka voisi sinänsä korkean Lisfrancin vamman kliinisen epäilyn takia ottaa suoraan TT:n niin **yleensä kuitenkin otetaan RTG sitä ennen,** jotta voidaan nopeasti nähdä muitakin vammoja ja saadaan baseline-natiivirtg myös otettua. Vaikka rtg:ssä ei todettaisikaan murtumaa, niin TT otetaan silti, koska Lisfrancin vamman epäily niin korkea. 
+
+![](images/jalkatera.png)
+  </div>
+</div>
+
+## Epäilet L4-5 nikamamurtumaa. Mikä kuvantamistutkimus? {#L4-5}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      RTG
+
+Todennäköisesti kyseessä **matalaenerginen murtuma -> lannerangan natiivirtg** ensisijainen (ensisijainen osteoporoottisten murtumien tutkimisessa; TT antaa harvoin lisäinfoa, jos murtuma havaittavissa)
+
+_Jos korkeaenerginen vamma tai monivammapotilas -> TT-kuva._
+  </div>
+</div>
+
+## Mikä thx-rtg:n kuvalöydös on tyypillisin asbestialtistuksessa? {#Asbestithx}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Tavallisin yksittäinen löydös on **parietaalipleuran plakit.** Ei kuitenkaan ole mitään patognomonisia radiologisia piirteitä asbestoosille eikä esim. plakkien puuttuminen sulje pois asbestoosin mahdollisuutta.
+
+
+![](images/asbestpleura.png)
+  </div>
+</div>
+
+## Mitä asbesti aiheuttaa? {#Asbestipneu}
+
+- a. ilmatilapneumonian
+- b. keuhkofibroosin
+- c. aspiraatiopneumonian 
+- d. alveolaarisen pneumonian
+
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      b
+
+Asbestoosi tarkoittaa keuhkojen **diffuusia interstitiaalista fibroosia** (natiivikuvantamisessa näkyisi mm. hienoja retikulaarisia opasiteetteja). Aiheuttajana on kohtalainen tai runsas asbestialtistus. Muutoksia on yleensä subpleuraali- ja basaalialueilla. HRTT:llä saadaan yleensä selville fibroosin aste. Muut syyt kuin asbesti tulee sulkea pois fibroosin aiheuttajana. 
+
+Asbestipöly voi siis hengitettynä aiheuttaa asbestoosia, parietaalipleuran plakkeja (paksuuntumia), viskeraalipleuran fibroosia ja pleuriitteja. Asbestialtistus lisää myös vaaraa sairastua keuhkosyöpään ja mesotelioomaan. Asbestisairauksilla on pitkä latenssiaika, 20–40 vuotta. 
+
+  </div>
+</div>
+
+## Missä tutkimuksessa on suurin säteilyannos? {#Sateilyannos}
+
+Ei vaihtoehtoja annettu, mutta tässä esimerkkilista yleisistä tutkimuksista:
+
+![](images/sateilyannos.png)
+
+## Kuvia, mm. onko potilaalla lymfangitis carcinomatosa?
+
+Ei kuvia tarjolla. Mitä lymfangitis carcinomatosa tarkoittaa? 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      b
+
+Lymphangitis carcinomatosa tarkoittaa **tuumorin leviämistä keuhkojen imusuonistossa,** mikä voi aiheuttaa keuhkokuvassa interstitiumin korostumista lymfastaasista johtuen. _Muistuttaa kardiogeenistä keuhkopöhöä thx-rtg:ssä._
+
+![](images/lymfangitis.png)
+
+
+  </div>
+</div>
+
+## Kuvia: mitä kämmenen luita nuoli osoittaa? {#Kammenen-luut-nuoli}
+
+Ei kerrottu, mitä luuta tarkalleen kysyttiin, mutta tässä rtg-esimerkki. Nimeä luut päässäsi
+
+![](images/kammenenluutblank.png)
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+
+![](images/kammenenluut.png)
+
+  </div>
+</div>
+
+## Kuvia: mitä nuoli osoittaa? {#Nuolikyynar}
+
+Ei esimerkkiä wikissä, mutta vastaus annettu ja sen perusteella haettu alla oleva esimerkkikuva. 
+
+![](images/nuolikyynar.png)
+
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Kyynärnivelen hydrops
+
+Esimerkki rasvapatjojen kohoamisesta, mikä viittaa nivelensisäiseen hydropsiin ja traumapotilaalla tulisi herättää epäilyn nivelensisäisestä murtumasta. Mikäli traumapotilaalla on nivelensisäinen hydrops eikä kuvissa kuitenkaan näy murtumaa, kannattaa herkästi ottaa viistokuvat tai ohjata potilas tietokonetomografiaan tai magneettitutkimukseen. Fat padit voivat olla korostuneita myös atraumaattisista syistä, kunhan vain on kyseessä nivelensisäinen effuusio (esim. artriitit)
+
+Kyynärnivelessä on siis anteriorinen ja posteriorinen rasvapatja (fat pad). Normaalitilanteessa anteriorinen voi olla nähtävissä (olisi suora ja anteriorista humerusta myötäilevä), mutta posteriorinen ei normaalisti koskaan.
+
+![](images/elbowjointeffusion.png)
+![](images/fatpadsign.png)
+
+  </div>
+</div>
+
+## Kuvia: Onko potilaalla pneumonia?
+
+Ei esimerkkikuvaa tärpeissä, kannattaa hieman perehtyä siihen, miltä pneumoniat näyttävät thx-rtg-kuvissa ja miten tunnistaa, missä lohkossa muutos sijaitsee. 
+
+![](images/thxrtglobes.png)
+![](images/pneumoniaclass.png)
+
+## Kuvia aivoista, piti tunnistaa kallonsisäisiä verenvuotoja ja aivoinfarkti {#Aivokuvat}
+
+Ei esimerkkikuvia, mutta nimeä kuvissa näkyvät löydökset
+
+![](images/intracranialhemorrhage.png)
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+
+Vasemmalta oikealle: aivoverenvuoto (ICH), subaraknoidaalivuoto (SAV), subduraalivuoto (SDH), epiduraalivuoto. Tunnistaa siitä, että subduraalinen on sirppimäinen, epiduraali linssimäinen, subaraknoidi sulcuksissa ja ICH parenkyymissä. 
+
+Iskeeminen aivoinfarkti taas olisi hypodensi TT-kuvassa (vuodoissa veri taas on vaaleaa); kts. esim. 2. kuva alempaa, jossa laaja infarktialue. 
+
+![](images/intracranial.png)
+![Infarkti](images/infarction.png)
+
+![SDH](images/sdh.png)
+![EDH](images/edh.png)
+![SAV](images/sav.png)
+  </div>
+</div>
+
+## 
