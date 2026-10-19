@@ -377,4 +377,708 @@ Iskeeminen aivoinfarkti taas olisi hypodensi TT-kuvassa (vuodoissa veri taas on 
   </div>
 </div>
 
-## 
+## Mihin luihin artroosi aiheuttaa ekana murtumia?
+
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+Artroosi (nivelrikko) ei aiheuta suoraan murtumia itsestään.
+  </div>
+</div>
+
+## Miten atelektaasi näkyy keuhkokuvassa? {#Atelektaasi-keuhkokuvassa}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+
+Näkyy yleensä keuhkoalueen tiivistymäjuosteena (levyatelektaasit)
+
+Lohkorajat voivat vetäytyä kohti atelektaasia
+
+Isompana voi näkyä **vaaleana alueena** keuhkon ollessa kasassa/työntynyt pois siltä
+alueelta
+
+![](images/atelektaasia.png)
+  </div>
+</div>
+
+## Salter-harris luokitus
+
+Ei tarkempaa kysymyksenasettelua wikissä. Selitä mikä on ja käy läpi eri luokat päässäsi.
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+Lasten kasvulevyä affisioivien murtumien luokittelutapa, joka perustuu murtuman morfologiasta suhteessa kasvulevyyn. 
+
+On myös Petersonin luokitus, joka on tarkempi ja on käytössä mm. Helsingissä enemmän; muuten maailmalla SH-luokitus on yleisemmin käytössä.
+
+<li>SH1 = Murtuma on pelkästään kasvulevyn hypertrofisessa vyöhykkeessä; epifyysi erkanee metafyysistä</li>
+<li>SH2 = Murtuma kulkee kasvulevyn halki metafyysiin; yleisin tyyppi</li>
+<li>SH3 = Murtuma kulkee kasvulevyn kautta epifyysin läpi nivelpintaan</li>
+<li>SH4 = Murtuma kulkee metafyysin, kasvulevyn ja epifyysin läpi nivelpintaan</li>
+<li>SH5 = Kasvulevyn puristusvamma, jossa kasvulevy murskautuu; ei dislokoitumista tyypillisesti; hyvin harvinainen</li>
+
+![](images/salter2.png)
+![](images/salter.png)
+  </div>
+</div>
+
+## Magneettikuvantamisen T1-relaksaatio
+
+Ei suoraa kysymyksenasettelua. Selitä mitä T1-relaksaatio tarkoittaa ja järjestä neste, rasva ja lihas järjestykseen T1-relaksaationopeuden mukaan.
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+T1-relaksaatio tarkoittaa sitä aikaa, jossa **longitudinaalinen magnetoituma (nettomagnetoituma) on palautunut 63%:iin alkuperäisestä.**
+
+T1-relaksaationopeuden mukaan kudosten järjestys on seuraava nopeimmasta hitaimpaan: **rasva > lihas > neste* -> tämän takia neste on tummaa T1-kuvassa ja rasva on kirkasta. 
+
+---
+
+Aiheesta:
+
+MRI-kuvantamisessa tietyn vokselin nettomagnetoituma osoittaa aluksi ulkoisen magneettikentän suuntaan, mutta tätä muutetaan virittävän radiotaajuisen (radio frequency, RF) säteilypulssin avulla 
+
+Kun virittävä RF-pulssi päättyy, pyrkii systeemi palautumaan perustilaansa eli minimoimaan sisäisen energiansa
+
+Ytimet alkavat siirtyä suuremmasta energiatilasta takaisin pienempään, ja systeemistä poistuva energia vapautuu sähkömagneettisena säteilynä, jonka taajuus on edelleen ytimien pyörimistaajuus. _Tätä ilmiötä kutsutaan relaksaatioksi._
+
+MRI-signaalin voimakkuus ja kesto riippuvat kudoksen magneettisista ominaisuuksista. Relaksaatio voidaan jakaa kahteen komponenttiin: 
+
+<li>T1-relaksaatio (T1 recovery); määritellään siksi ajaksi, jossa nettomagnetoituma on palautunut 63 %:iin alkuperäisestä</li>
+<li>T2-relaksaatio (T2 decay); määritellään ajaksi, jossa poikittainen magnetoituma on vaimennut 63 %:a (37%:iin alkuperäisestä)</li>
+
+---
+
+T1- ja T2-relaksaatiot tapahtuvat samanaikaisesti, mutta toisistaan riippumattomasti ja eri kudoksilla on erilaiset relaksaatioajat. 
+
+Tätä voidaan hyödyntää painottamalla asetuksilla (toistoaika eli TR ja kaikuaika eli TE) eri relaksaatioaikoja -> saadaan parempi kontrasti kuviin sen mukaan mitä halutaan kuvata. 
+
+![](images/mri0.png)
+![](images/mri1.png)
+![](images/mri2.png)
+![](images/mri3.png)
+![](images/mri4.png)
+![](images/mri5.png)
+
+
+  </div>
+</div>
+
+## Mikä on tyypillisin osteoporoottinen murtuma? {#Tyypillisin-osteoporoosimurtuma}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Nikaman kiilamainen kompressiomurtuma on yleisin osteoporoosin aiheuttama murtuma. 
+
+Muita yleisiä ovat mm. lonkkamurtuma, rannemurtuma ja olkamurtuma
+
+---
+
+70 % nikamamurtumista jää diagnosoimatta, suurin osa ohimeneviä keskiselän kipuja
+
+<li>Seurauksia: Pituuden lyhentyminen, ryhdin kumartuminen, krooniset kivut</li>
+<li>Useimmilla potilailla toipuminen (kipu vähenee) 1–2 kuukaudessa, mutta osalla vaikea, kroonistunut kipu ja toimintahaitta</li>
+<li>Nikamamurtuma lisää riskiä uusille murtumille</li>
+
+
+![](images/kompressiomurtuma.png)
+![](images/osteoporoosi.png)
+
+  </div>
+</div>
+
+## Toiminnallinen MRI-kuvaus
+
+Ei tarkempaa kysymyksenasettelua. Selitä mihin käytetään ja mihin perustuu. 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Hyödyllistä aivojen kuvantamisessa; perustuu siihen, että aivoalueen aktivoituminen johtaa **oksihemoglobiinin määrän suhteelliseen lisääntymiseen** alueella (oksihemoglobiinilla on erilaiset magneettiset ominaisuudet kuin ei-happea sitovalla hemoglobiinilla) -> aktivoituneelta alueelta saadaan voimakkaampi signaali 
+
+Kuvataan siis epäsuorasti aivojen toimintaa mittaamalla **verenkierron ja veren happipitoisuuden muutosta.** 
+
+**Käytetään useimmiten liikeaivokuoren ja puhealueiden paikantamiseen ja auttaa välttämään kriittisten alueiden leikkausta kasvainten resektiossa.**
+
+Voidaan myös tutkia mm. muistitoimintoja ja aivojen muovautuvuutta aivohalvauksen ja aivovamman jälkeisessä kuntoutuksessa.
+  </div>
+</div>
+
+## Mihin perustuu substraktioangiografiakuvaus?
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Kohteesta kuvataan ensin ns. maskikuva ilman varjoainetta ja varjoaineen ruiskutuksen jälkeen otetaan varjoainekuva. Kuvat vähennetään logaritmisesti, jolloin maskikuvassa esiintyvä muu anatominen tausta poistuu ja jäljelle jää kuva varjoaineesta verisuonissa.
+
+![](images/dsa.png)
+  </div>
+</div>
+
+
+##  Miltä näyttää subaraknoidaalivuoto? {#SAV-milta-nayttaa}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+  
+SAV näkyy TT-kuvassa aivouurteiden ja basaalisisternojen (interpedunkulaarinen sisterna) hyperdensisenä muutoksena. 
+
+Aivo-selkäydinnesteen virtauksen takia verta kulkeutuu muualle, ja sitä keräytyy painovoiman vaikutuksesta esimerkiksi sulcus Sylviin pohjalle. Verta tuleekin etsiä huolellisesti koko aivojen alueelta. Jos verta vuotaa aivokammioon, voidaan nähdä aivo-selkäydinnesteen ja veren välistä kerrostumista.
+
+![](images/sav2.png)
+![](images/sav3.png)
+  </div>
+</div>
+
+## Miten akuutti bronkioliitti näkyy keuhkokuvassa? {#Bronkioliitti-keuhkokuva}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+**Ei oikein näy (voi olla normaali) eikä rtg-kuvaa tarvita bronkioliitin diagnostiikassa rutiinisti.** Bronkioliitin diagnoosi on kliininen ja perustuu oireisiin. Keuhkokuva otetaan, mikäli on kliininen epäily komplikaatiosta, kuten sairaalahoitoa vaativasta bakteerin aiheuttamasta keuhkokuumeesta. 
+
+Mahdollisesti epäspesifisiä löydöksiä, kuten atelektaaseja, epätarkkarajaisia ja suttuisia tiivistymiä ja peribronkiaalista paksuuntumista, hyperinflaatiota... Arviointi olisi periaattessa parasta HRTT:llä (nähtäisiin nestetäytteisiä bronkioleja eli tree in bud ilmiö)
+
+---
+
+_Aiheesta tarkemmin (lisää lastentautien kurssilla):_
+
+**Bronkioliitti = Alle 1-vuotiaan ensimmäinen uloshengitysvaikeus;** klassisesti yleisin aiheuttaja on RSV, tosin sen määrät ovat laskeneet huomattavasti Nirsevimabi-estohoidon tultua käyttöön. Myös esim. rino-, entero-, metapneumo- ja parainfluenssavirukset voivat aiheuttaa samanlaisen taudinkuvan. Yleisin sairastumisikä on 1–6 kuukautta, jolloin RSV on tärkein aiheuttaja. RSV ja rinovirus ovat yhtä yleisiä 6–12 kuukauden iässä (ainakin klassisesti). 
+
+Keskeisin ero rinoviruksen ja RSV:n välillä patogeneettisesti tiivistyy siihen, että rinovirus on pääasiassa sytokineettisesti vaikuttava virus, kun taas RSV on enemmän sytopaattinen. RSV siis aiheuttaa obstruktiota pääasiassa liman ja solutuhon aiheuttaman tukoksen kautta, kun taas rinovirus aiheuttaa tulehduksellisesti bronkuksen sileän lihaksen supistumista. Myöhemmän astman riski on merkittävästi suurempi rinovirusbronkioliittien jälkeen. Bronkioliitin jälkeen astman prevalenssi on noin 10 %, mikäli bronkioliitti on ollut RSV:n aiheuttama, ja 25–50 %, mikäli bronkioliitti on ollut rinoviruksen aiheuttama, kun samanikäisen väestön prevalenssi on noin 5 %.
+
+Obstruktiivinen bronkiitti taas tarkoittaa yli 1-vuotiaan (12-36kk) ensimmäistä uloshengitysvaikeutta tai alle 1-vuotiaalla toistuvaa uloshengitysvaikeutta. Yleisin aiheuttaja on rinovirus. 
+
+---
+
+Bronkioliitti alkaa ylempien hengitysteiden oireilla. Kun infektio leviää alempiin hengitysteihin, esiintyy kuumetta, yskää ja limaisuutta vaihtelevassa määrin.
+
+Tyypillinen bronkioliittipotilas on siis pieni imeväinen, jolla on hengitysvaikeus (voi olla kylkiluuväliretraktioita), ja auskultoiden kuullaan ritinää/rohinaa (ritinät syntyvät, kun kasassa olevat keuhkorakkulat avautuvat sisäänhengityksen aikana, ja kuuluvat parhaiten sisäänhengityksen lopussa) ja mahdollisesti hentoa uloshengityksen vinkunaa. Syöminen on usein vaikeutunut, ja lapsi väsähtää helposti. Auskultaatiolöydös voi olla normaali. Tärkeä oire on lisääntynyt hengitystiheys (> 50/min).
+
+Bronkioliitin diagnoosi on kliininen ja perustuu lapsen ikään, oireisiin ja edellä mainittuihin löydöksiin, kuten tihentyneeseen hengitykseen, auskultaatiossa kuultaviin vinkunoihin tai hienojakoisiin rahinoihin (ritinöihin) ja rintakehällä todettuihin vetäytymiin. Ilmasalpaus on kliinisesti vaikea arvioida, ja hypoksia voidaan todeta vain mittaamalla happisaturaatio. Hengitystyön määrä päätellään kliinisesti hengitystiheydestä, uloshengityksen pituudesta ja vetäytymien asteesta.
+
+Bronkioliittiin ei ole parantavaa lääkehoitoa. Tärkeintä on, että riskipotilaat (taulukko alimmassa kuvassa) tunnistetaan ja lähetetään sairaalaseurantaan.
+
+Bronkioliitin hoidoksi klassisesti suositellaan hapensaannin (lisähappea esimerkiksi suurivirtauksinen nenäkanyylin (optiflow) avulla, jos <92%), nesteytyksen ja ravitsemuksen varmistamista; ns. “minimal handling”-hoitoperiaate eli merkittäviä toimenpiteitä pyritään välttämään. Jos limaa erittyy runsaasti, sen imeminen nenänielusta voi helpottaa hengitystä ja syömistä. Mikäli syöminen onnistuu huonosti, annetaan nesteytystä ja ravitsemusta yleensä nenämahaletkulla tai joskus suonensisäisesti. Käypä hoito- tai kansainväliset bronkioliitin hoitosuositukset eivät suosittele beeta2-agonististia, adrenaliinia, systeemistä tai inhaloitua kortikosteroidia, antibioottia tai antiviraalista lääkitystä bronkioliitin hoitoon.
+
+Lasten astman Käypä hoito -suositus ei kuitenkaan ota kantaa pienen lapsen ensimmäisen rinoviruksen aiheuttaman vinkukohtauksen hoitoon. On kuitenkin esitetty asiantuntijanäkemyksiä hoitolinjoista. Vaikka kontrolloituja tutkimuksia on vielä vähän, on viitteitä, että niiden akuuttiin hoitoon tulee suhtautua eri tavoin. Ensimmäinen rinovirusvinkuna vaikuttaa olevan tällä hetkellä tehokkain aikapiste astman sekundaaripreventioon.
+
+
+<li>RSV-Bronkioliitti:</li>
+  <ul>
+    <li>Potilas: Tyypillinen ikä alle 6 kuukautta, osastohoitoa vaativa tauti, runsaasti limaa hengitysteissä, työläs hengitys, ei atooppista ekseemaa, vanhemmilla ei astmaa ja he tupakoivat.</li>
+    <li>Hoitolinja: Pidättäydy lääkkeistä. Oireenmukaisena hoitona hapensaannin ja ravitsemuksen turvaaminen. Limaimut vain tarvittaessa.</li>
+    <li>Perustelut: Oireiden syynä liman ja solujätteen aiheuttama mekaaninen tukos hengitysteissä, eikä astmariski ole merkittävästi lisääntynyt. Avaavien tai hoitavien lääkkeiden tehosta ei ole näyttöä.</li>
+  </ul>
+<li>Rinovirusvinkuna:</li>
+  <ul>
+    <li>Potilas: Tyypillinen ikä yli 6-12 kuukautta, osastohoitoa vaativa tauti, taustalla pitkittynyt yskä, auskultoiden selkeät ekspiratoriset vinkunat molemman puolin, hengitysapulihakset käytössä, atooppista ihottumaa, toisella vanhemmista on allerginen astma, kotona 2 kissaa.</li>
+    <li>Hoitolinja: Kokeillaan avaavaa lääkettä (esim. salbutamoli). Jos hyötyy ja vinkuna toistuu, harkitse kolmen päivän systeemistä kortikosteroidikuuria ja määritä pöly- ja ruokaryhmän allergiatestit.</li>
+    <li>Perustelut: Astman kaltainen taudinkuva ja merkittävästi lisääntynyt astmariski. Hieman näyttöä sekä avaavan lääkkeen että kortikosteroidin hyödystä tässä potilasryhmässä.</li>
+  </ul>
+
+---
+
+Käytännön elämässä virusdiagnostiikkaa tehdään suhteellisen harvoin. Siksi voitaisiin puhua RSV-bronkioliitista, kun RSV-virus on osoitettu tai alle 6 kuukauden ikäinen vauva sairastaa tyypillisen taudinkuvan RSV-epidemian aikana. Tällöin keuhkoputkia avaavaa lääkettä (beeta2-agonistia) ei kannata edes kokeilla. Jos taas ikä on yli 6 kuukautta ja lapsi sairastaa RSV-epidemian ulkopuolella, voitaisiin avaavaa lääkettä kokeilla sitä herkemmin, mitä vaikeampi tauti on, mitä voimakkaammin uloshengitys vinkuu ja mitä enemmän on atopiapiirteitä. Hoitovasteen, riskitekijöiden ja iän (mielellään yli 12 kk) mukaan voidaan harkita 3 päivän systeemistä kortikosteroidikuuria.
+
+![](images/bronk1.png)
+![](images/bronk2.png)
+![](images/bronk3.png)
+
+  </div>
+</div>
+
+## Millä suoli täytetään MR-enterografiassa?
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Potilaalle juotetaan (jos kyseessä olisi enteroklyysi, niin varjoaine annettaisiin nasojejunaaliletkun kautta) **suolivarjoainetta** (ei ole gadoliniumia kuten i.v-annostelussa; käytetään yleensä niin sanottuja **bifaasisia varjoaineita,** jotka näkyvät T1- gradienttikaikusekvensseissä niukkasignaalisina ja T2-painotteisissa sekvensseissä runsassignaalisina)
+
+---
+
+Voidaan antaa myös samalla i.v.-varjoainetta, jotta suolen seinämä ja sen muutokset näkyisivät paremmin
+
+Tutkimuksen aikana suoli lamataan spasmolyytilla liikkeen aiheuttamien artefaktien välttämiseksi
+
+  </div>
+</div>
+
+## Mihin löydökseen viittaa hunajakennokuvioitus HRTT-kuvassa? {#Hunajakennokuvioitus-HRTT}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Interstitiaaliseen fibroosiin, yleisin on IPF (idiopaattinen pulmonaalinen fibroosi). 
+
+  </div>
+</div>
+
+## Mikä on lasten yleisin Salter-Harris-luokituksen mukainen murtuma {#SH-yleisin}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+SH2 (n. 75%) 
+
+---
+
+Salter-Harris-luokitus on lasten kasvulevyä affisioivien murtumien luokittelutapa, joka perustuu murtuman morfologiasta suhteessa kasvulevyyn. 
+
+On myös Petersonin luokitus, joka on tarkempi ja on käytössä mm. Helsingissä enemmän; muuten maailmalla SH-luokitus on yleisemmin käytössä.
+
+<li>SH1 = Murtuma on pelkästään kasvulevyn hypertrofisessa vyöhykkeessä; epifyysi erkanee metafyysistä</li>
+<li>SH2 = Murtuma kulkee kasvulevyn halki metafyysiin; yleisin tyyppi</li>
+<li>SH3 = Murtuma kulkee kasvulevyn kautta epifyysin läpi nivelpintaan</li>
+<li>SH4 = Murtuma kulkee metafyysin, kasvulevyn ja epifyysin läpi nivelpintaan</li>
+<li>SH5 = Kasvulevyn puristusvamma, jossa kasvulevy murskautuu; ei dislokoitumista tyypillisesti; hyvin harvinainen</li>
+
+![](images/salter2.png)
+![](images/salter.png)
+
+  </div>
+</div>
+
+## L5-murtuman luutumisen kontrolliin paras tutkimus? 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Natiivirtg on ensisijainen; tehdään yleensä seistessä      
+  </div>
+</div>
+
+
+## Epiduraali- ja subduraalihematooman etiologia, laskimo- vai valtimoperäinen? {#EDH-etiologia}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+  
+Epiduraalivuoto on valtimoperäinen, subduraali laskimoperäinen (tämän takia epiduraali laajenee nopeammin ja hoidon tarvitsee olla kiireisempää). 
+
+  </div>
+</div>
+
+## Millä kuvantamistutkimuksella akuutti appendisiitti diagnosoidaan? {#Milla-kuvantamistutkimuksella-appendisiitti}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+TT ensisijaisesti, kuten muutenkin useimmiten aikuisten akuuteissa vatsoissa.
+
+Lapsilla ja raskaana olevilla UÄ (ei kuitenkaan pysty poissulkemaan appendisiittia) ja tarvittaessa MRI. 
+  </div>
+</div>
+
+##  Mikä kudos herkin säteilylle (iho, luu, rintarauhaskudos, lihas)? {#Mika-kudos-herkin}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Rintarauhaskudos
+
+Herkimpiä säteilylle ovat: keuhkot, luuydin, mahalaukku, paksusuoli, rinnat (herkkyyskerroin 0,12) ja sukupuolirauhaset (herkkyyskerroin 0,08)
+      
+  </div>
+</div>
+
+## Kuvakysymys: missä sydämen osassa tahdistinjohto on? {#Missa-sydamen-osassa-tahdistinjohto}
+
+Ei esimerkkikuvaa, mutta mieti minne tahdistinjohdot yleensä sijoitetaan sydämessä. 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Useimmiten tahdistimissa on kaksi johtoa: **oikeassa eteisessä ja oikeassa kammiossa;** yksijohtoisia eteistahdistimia tehdään nykyään todella harvoin (jos tarvittaisiin vain yhtä johtoa, niin kaksijohtoisessa tahdistimessa voidaan asetuksissa säätää tahdistin tarvittavan mukaiseksi) Joskus on myös vasemmassa kammiossa (jos vajaatoimintatahdistin eli CRT).
+
+![](images/tahdistin.png)
+  </div>
+</div>
+
+
+## Kuvakysymys: onko vajaatoiminta pahentunut, vähentynyt vai sama?
+
+Ei tietystikään tentissä käytettyä kuvaa saatavilla. Miten tässä (vasemmalla ennen, oikealla jälkeen)? 
+
+![](images/pahentunut.png)
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Pahentunut
+
+Oikeanpuoleisessa kuvassa keuhkoverekkyys koholla ja sydän suurentunut verrattuna aikaisempaan kuvaan    
+  </div>
+</div>
+
+## Mitä tarkoittaa UÄ:n tekijäriippuvaisuus? {#UA-tekijariippuvaisuus}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+**Eri käyttäjät voivat saada eri arvoja** riippuen omaksumistaan mittaustekniikoista sekä käyttäjien välisestä taitotasosta. 
+
+Jälkikäteen ei myöskään voi olla varma, **tutkiko mittaaja kaikki asiat tarvittavan tarkasti ja huolellisesti.**
+
+  </div>
+</div>
+
+## Mitä tarkoittaa ”sydän on kompensaatiossa”? {#Sydan-kompensaatiossa}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+
+  </div>
+</div>
+
+##  Miltä interstitiaalipneumonia näyttää keuhkokuvassa? {#Interstitiaalipneumonia-keuhkokuvassa}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+
+  </div>
+</div>
+
+## TT:n etu verrattuna MRI:hin?
+
+Vaihtoehtoja esim: 
+
+- a. Voi ottaa useita varjoainetehosteisia kuvantamisjaksoja
+- b. Parempi paikanerotuskyky
+- c. Ei säteilyä
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+
+  </div>
+</div>
+
+## Polven rtg-kuvassa lateraalisesti luuhippuja, merkki mistä vammasta? {#Polven-rtg-kuvassa-luuhippuja}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+  </div>
+</div>
+
+## Minkä sairauden diagnostiikka onnistuu parhaiten ultraäänellä? {#Minka-sairauden-ualla}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+  </div>
+</div>
+
+## Mikä kuvantamismenetelmä paras imusolmukkeiden kuvantamiseen? {#Mika-kuvantamismenetelma-paras-imusolmukkeiden}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+  </div>
+</div>
+
+## Lead time bias {#Lead-time-bias}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+  </div>
+</div>
+
+## Mammografiasta kysymys: mikä on totta? {#MGssa-kysymys}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+  </div>
+</div>
+
+## Vääntövamma, turvonnut polvi, millä kuvataan {#Vaantovamma-kuvataan}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+  </div>
+</div>
+
+## Mikä kudostyyppi hidastaa röntgensäteilyn kulkua eniten? {#Mika-kudostyyppi-hidastaa}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+  </div>
+</div>
+
+## Mitä mammografian lisäksi voi käyttää rintojen kuvantamiseen? {#MG-lisaksi}
+
+- a. uä
+- b. mri
+- c. molemmat
+
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+  </div>
+</div>
+
+##Pitkän uran tehnyt maataloustyöntekijä, keuhkolöydöksessä ainakin mattalasitiivistymiä ja jotain muuta, mikä dg todennäköisin? {#Maatalaoustyontekija}
+
+- a. keuhkosyöpä,
+- b. sarkoidoosi
+- c. homepölykeuhko
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+  </div>
+</div>
+
+## Millä löytää vähäisenkin pleuranesteen parhaiten alkuvaiheessa? {#Milla-pleuraneste}
+
+- a. uä
+- b. thorax-rtg
+- c ja d. ei muistettu
+
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+  </div>
+</div>
+
+## Mikä on paras pneumothoraxin dg:ssa? {#Mika-pneumothoraxissa}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+  </div>
+</div>
+
+## Missä vaiheessa pitää ottaa kuva keuhkovaltimoiden TT-kuvantamisessa? {#Missa-vaiheessa-keuhkovaltimoiden-TT}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+  </div>
+</div>
+
+## Mikä kuvantaminen on paras epäiltäessä selkäytimen infarktia? {#Mika-kuvantaminen-sy-infarktissa}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+  </div>
+</div>
+
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+  </div>
+</div>
+
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+<li>Pääkriteerit</li>
+  <ul>
+    <li>Endokardiitille tyypillinen veriviljelylöydös eli kahdessa 12h välillä otetussa veriviljelyssä tyypillinen endokardiitin aiheuttaja (suun streptokokit, Streptococcus gallolyticus (aikaisemmin S. bovis), HACEK-ryhmä, S. aureus, enterokokki) tai vähintään kolme positiivista neljästä veriviljelynäytteestä (1. ja viimeisen näytteen välillä väh. 1h) tai yksi veriviljely on positiivinen C. burnetiille/faasin I vasta-ainetitterit ovat >1:800</li>
+    <li>Endokardiitti jossain kuvantamistutkimuksessa (TTE, TEE, CT, PET, SPECT)</li>
+  </ul>
+
+  </div>
+</div>
