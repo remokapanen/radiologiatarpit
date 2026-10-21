@@ -832,11 +832,12 @@ Jälkikäteen ei myöskään voi olla varma, **tutkiko mittaaja kaikki asiat tar
   </button>
   <div class="solution-content">
 
+Simppelisti sanottuna sitä, että thx-kuvassa ei ole havaittavissa sydämen vajaatoiminnan aiheuttaman kongestion tai nestekertymien piirteitä eli keuhkoverekkyys on normaali ja pleuranestettä ei ole todettavissa. 
 
   </div>
 </div>
 
-##  Miltä interstitiaalipneumonia näyttää keuhkokuvassa? {#Interstitiaalipneumonia-keuhkokuvassa}
+## Miltä interstitiaalipneumonia näyttää keuhkokuvassa? {#Interstitiaalipneumonia-keuhkokuvassa}
 
 <div class="">
   <button class="solution-button"
@@ -846,6 +847,9 @@ Jälkikäteen ei myöskään voi olla varma, **tutkiko mittaaja kaikki asiat tar
   </button>
   <div class="solution-content">
 
+Keuhkokuvassa nähdään peribronkiaalisten rakenteiden paksuuntumista, epätarkkarajaisia retikulonodulatiivisia tiivistymiä ja levyatelektaaseja (ohuita juosteisia tiivistymiä pienen keuhkoalueen kasaan painumisen seurauksena). 
+
+![](images/intestitiaalinenpneumonia.png)
 
   </div>
 </div>
@@ -865,13 +869,28 @@ Vaihtoehtoja esim:
     Vastaus
   </button>
   <div class="solution-content">
+      b
+      
+Parempi spatiaalinen resoluutio eli erotuskyky viereisten rakenteiden välillä (MRI:llä taas parempi pehmytkudoskontrasti). 
 
+---
+
+Muita ovat mm.: 
+
+<li>Nopeampi</li>
+<li>Parempi kortikaaliluu- ja kalkkikudosten kuvantamisessa</li>
+<li>Vähemmän herkkä liike-artefaktoille</li>
+<li>Sopii potilaille, joilla MRI ei sovi (esim. ahtaanpaikankammo, tietyt metalli-implantit ja tietyt pacemakerit; nykyään kylläkin vierasesineet yleensä MRI-sopivia)</li>
 
   </div>
 </div>
 
 ## Polven rtg-kuvassa lateraalisesti luuhippuja, merkki mistä vammasta? {#Polven-rtg-kuvassa-luuhippuja}
 
+- a. Kertoo nivelkierukan sijoiltaanmenosta
+- b. Kertoo ligamentin repeämästä
+- c. ei muistettu
+
 <div class="">
   <button class="solution-button"
           data-label="Vastaus"
@@ -879,12 +898,21 @@ Vaihtoehtoja esim:
     Vastaus
   </button>
   <div class="solution-content">
-      
+      b
+  
+Jos esim. on kyseessä avulsiofragmentti sääriluun lateraalikondyylin reunasta, niin kyseessä on Segondin murtuma ja on merkki eturistisiteen ja nivelkierukan repeämästä. 
+
+![](images/segondin.png)
   </div>
 </div>
 
 ## Minkä sairauden diagnostiikka onnistuu parhaiten ultraäänellä? {#Minka-sairauden-ualla}
 
+- a. perforaatio
+- b. appendisiitti
+- c. divertikuloosi/-liitti
+- d. kolekystiitti
+
 <div class="">
   <button class="solution-button"
           data-label="Vastaus"
@@ -892,12 +920,25 @@ Vaihtoehtoja esim:
     Vastaus
   </button>
   <div class="solution-content">
-      
+      d
+
+UÄ on ensisijainen kolekystiitin kuvantamiskeino
+
+---
+
+a: Vapaa ilma vatsaontelossa näkyy parhaiten tietokonekerroskuvauksella (TT) (tai natiivi-rtg:llä)
+
+b: Appendisiitissa ultraääntä käytetään paljon etenkin lapsilla ja raskaana olevilla, mutta TT on parempi osuvuutensa suhteen ja onkin ei-raskaana-olevilla aikuisilla yleensä ensisijainen. 
+
+c: TT-kuvaus on huomattavasti ultraääntä tarkempi ja ensisijainen menetelmä suolen umpipussitulehduksen ja sen komplikaatioiden todentamiseen
+
   </div>
 </div>
 
 ## Mikä kuvantamismenetelmä paras imusolmukkeiden kuvantamiseen? {#Mika-kuvantamismenetelma-paras-imusolmukkeiden}
 
+Tärpissä ei vaihtoehtoja
+
 <div class="">
   <button class="solution-button"
           data-label="Vastaus"
@@ -905,12 +946,20 @@ Vaihtoehtoja esim:
     Vastaus
   </button>
   <div class="solution-content">
-      
+
+Riippuu tilanteesta ja sijainnista. Todennäköisesti vastaus on UÄ.
+
+<li>UÄ on yleensä hyvä ensisijainen varsinkin suhteellisen pinnallisilla alueilla, kuten kaulassa. Toimii myös syvemmissäkin tapauksissa; esim. mesenteriaalinen lymfadeniitti lapsilla on UÄ-diagnoosi</li>
+<li>MRI hyvä yleisesti, TT myös</li>
+<li>PET/TT hyvä arvioidessa metastasointia imusolmukkeisiin</li>
+
   </div>
 </div>
 
 ## Lead time bias {#Lead-time-bias}
 
+Ei vaihtoehtoja. Mitä termi tarkoittaa? 
+
 <div class="">
   <button class="solution-button"
           data-label="Vastaus"
@@ -918,12 +967,21 @@ Vaihtoehtoja esim:
     Vastaus
   </button>
   <div class="solution-content">
-      
+
+Lead time bias = Taudin aikainen toteaminen seulonnassa johtaa väärin parantuneeseen ennusteeseen. 
+
+Esim. Yleinen harha eturauhassyöpäseuloissa
+
+![](images/leadtime.png)
   </div>
 </div>
 
 ## Mammografiasta kysymys: mikä on totta? {#MGssa-kysymys}
 
+- a. Mammografiaseulonta on johtanut siihen, että rinnoista poistetaan vähemmän hyvänlaatuisia muutoksia 
+- b. Mammografiaseulonnassa voidaan todeta rintasyöpiä, joista ei olisi potilaalle ollut haittaa hänen elämänsä aikana
+- c. ei muistettu
+
 <div class="">
   <button class="solution-button"
           data-label="Vastaus"
@@ -931,12 +989,16 @@ Vaihtoehtoja esim:
     Vastaus
   </button>
   <div class="solution-content">
-      
+      b
+
+Sama ongelma on mm. eturauhassyövässä ja PSA-seulonnassa
   </div>
 </div>
 
 ## Vääntövamma, turvonnut polvi, millä kuvataan {#Vaantovamma-kuvataan}
 
+Ei vaihtoehtoja, koita vastata ilman.
+
 <div class="">
   <button class="solution-button"
           data-label="Vastaus"
@@ -944,12 +1006,15 @@ Vaihtoehtoja esim:
     Vastaus
   </button>
   <div class="solution-content">
-      
+
+RTG heti (poissuljetaan murtumat), MRI myöhemmin kiireellisesti       
   </div>
 </div>
 
 ## Mikä kudostyyppi hidastaa röntgensäteilyn kulkua eniten? {#Mika-kudostyyppi-hidastaa}
 
+Ei vaihtoehtoja, koita vastata ilman.
+
 <div class="">
   <button class="solution-button"
           data-label="Vastaus"
@@ -957,7 +1022,8 @@ Vaihtoehtoja esim:
     Vastaus
   </button>
   <div class="solution-content">
-      
+
+Luu (kortikaaliluu on hyvin tiheää ja siten näkyy lähes valkoisena rtg-kuvissa) 
   </div>
 </div>
 
@@ -967,7 +1033,6 @@ Vaihtoehtoja esim:
 - b. mri
 - c. molemmat
 
-
 <div class="">
   <button class="solution-button"
           data-label="Vastaus"
@@ -975,13 +1040,19 @@ Vaihtoehtoja esim:
     Vastaus
   </button>
   <div class="solution-content">
-      
+      c
+
+Molempia voidaan käyttää
+
+<li>MRI on hyvä tiheiden rintojen tutkimisessa</li>
+<li>UÄ yleensä seuraava jatkotutkimus mammografian jälkeen tai jopa ensisijainen raskaana olevilla tai alle 35-vuotiailla.</li>
+
   </div>
 </div>
 
-##Pitkän uran tehnyt maataloustyöntekijä, keuhkolöydöksessä ainakin mattalasitiivistymiä ja jotain muuta, mikä dg todennäköisin? {#Maatalaoustyontekija}
+## Pitkän uran tehnyt maataloustyöntekijä, keuhkolöydöksessä ainakin mattalasitiivistymiä ja jotain muuta, mikä dg todennäköisin? {#Maatalaoustyontekija}
 
-- a. keuhkosyöpä,
+- a. keuhkosyöpä
 - b. sarkoidoosi
 - c. homepölykeuhko
 
@@ -992,7 +1063,14 @@ Vaihtoehtoja esim:
     Vastaus
   </button>
   <div class="solution-content">
-      
+
+Homepölykeuhko on toiselta nimeltään hypersensitiivinen alveoliitti eli farmer’s lung. Maataloustyöntekijät (kuten maanviljelijät ja karjanhoitajat) altistuvat työssään pitkäaikaisesti ja toistuvasti orgaaniselle pölylle, kuten homeisille heinille, oljille ja viljoille, joille altistuminen voi aiheuttaa ongelmia. 
+
+Ohutleiketietokonetomografiassa (HRTT) näkyvät mattalasitiivistymät (ground-glass opacities) yhdessä muiden tyypillisten muutosten (kuten pienten sentrilobulaaristen nodulusten tai ilmasalpausten) kanssa ovat allergisen alveoliitin tyypillisimpiä aktiivisen vaiheen kuvantamislöydöksiä.
+
+a: Keuhkosyöpä näkyy kuvantamisessa tyypillisesti selkeämpänä, kiinteänä kasvainmassana tai paikallisena konsolidaationa, ei niinkään laajamittaisina tai diffuuseina mattalasitiivistyminä
+
+b: Sarkoidoosin klassinen kuvantamislöydös on molemminpuolinen keuhkoporttien ja välikarsinan imusolmukkeiden suureneminen sekä imuteitä noudattelevat pienet solmut. Mattalasimuutokset eivät ole sen tyypillisin ilmenemismuoto, vaikka ovatkin mahdollisia. 
   </div>
 </div>
 
@@ -1002,7 +1080,6 @@ Vaihtoehtoja esim:
 - b. thorax-rtg
 - c ja d. ei muistettu
 
-
 <div class="">
   <button class="solution-button"
           data-label="Vastaus"
@@ -1010,12 +1087,24 @@ Vaihtoehtoja esim:
     Vastaus
   </button>
   <div class="solution-content">
-      
+      a
+
+Ultraääni on herkempi pleuranesteen osoittaja kuin thx-rtg; osoittaa jopa juuri yli 20ml kertymät (thx-rtg vaatii tyypillisesti >200ml). Jopa TT on vähemmän herkkä kuin ultra. 
+
+Ultraäänellä pleuranesteen olemassaolon tarkistaminen on myös hyvin helppoa ja nopeasti opeteltavissa. Onkin siis hyvin järkevää oppia tarkistamaan pleurasopet UÄ:llä, jotta ei tarvitse kuivatella potilaita sokkona osastolla. 
+
+![](images/pleuraleffusion.png)
   </div>
 </div>
 
 ## Mikä on paras pneumothoraxin dg:ssa? {#Mika-pneumothoraxissa}
 
+- a. auskultaatio
+- b. mri
+- c. uä
+- d. tt
+- e. thorax
+
 <div class="">
   <button class="solution-button"
           data-label="Vastaus"
@@ -1023,12 +1112,19 @@ Vaihtoehtoja esim:
     Vastaus
   </button>
   <div class="solution-content">
+      d/e
       
+TT tarkin, mutta thx-rtg tyypillinen ensilinjan kuvantaminen. UÄ on myös toimiva hätätilanteissa. 
+
   </div>
 </div>
 
 ## Missä vaiheessa pitää ottaa kuva keuhkovaltimoiden TT-kuvantamisessa? {#Missa-vaiheessa-keuhkovaltimoiden-TT}
 
+- a. kun varjoaine alaonttolaskimossa
+- b. kun varjoaine vasemmassa eteisessä
+- c. kun varjoaineen pitoisuuden havaitaan nousevan merkittävästi truncus pulmonaliksessa
+
 <div class="">
   <button class="solution-button"
           data-label="Vastaus"
@@ -1036,12 +1132,21 @@ Vaihtoehtoja esim:
     Vastaus
   </button>
   <div class="solution-content">
-      
+      c
+
+Kuvataan silloin, kun keuhkovaltimot ovat täynnä kontrastia; ei voida aloittaa kuvantamista liian myöhään (eli ei siis silloin kun varjoaine on jo kulkenut keuhkojen läpi ja on vasemmassa eteisessä tai aortassa). 
+
+---
+
+Keuhkovaltimoiden tietokonekerroskuvauksessa (sekä keuhkoembolia- että CT-angiografiadiagnostiikassa) käytetään niin kutsuttua bolus tracking -tekniikkaa. Mittausalue (ROI, region of interest) asetetaan truncus pulmonaliksen kohdalle, ja varsinainen kuvaus käynnistyy automaattisesti silloin, kun varjoainepitoisuus saavuttaa tietyn kynnysarvon. Näin varmistetaan, että keuhkovaltimopuustossa on paras mahdollinen varjoainetäyttö eli kontrasti.
+
   </div>
 </div>
 
 ## Mikä kuvantaminen on paras epäiltäessä selkäytimen infarktia? {#Mika-kuvantaminen-sy-infarktissa}
 
+Ei vaihtoehtoja, koita vastata ilman. 
+
 <div class="">
   <button class="solution-button"
           data-label="Vastaus"
@@ -1049,10 +1154,13 @@ Vaihtoehtoja esim:
     Vastaus
   </button>
   <div class="solution-content">
-      
+
+MRI: magneetti on käytännössä ainoa kuvantaminen, jolla voidaan tarkastella itse selkäydintä.   
+
   </div>
 </div>
 
+## Mitä tarkoittaa pseudoartroosi? {#Pseudoartroosi}
 
 <div class="">
   <button class="solution-button"
@@ -1061,24 +1169,10 @@ Vaihtoehtoja esim:
     Vastaus
   </button>
   <div class="solution-content">
-      
-  </div>
-</div>
 
+Luunmurtuman paranemisen epäonnistuminen (non-union), jossa samalla todetaan fibroottinen kapseli luutumattoman kohdan ympärillä. 
 
-<div class="">
-  <button class="solution-button"
-          data-label="Vastaus"
-          data-hide-label="Piilota vastaus">
-    Vastaus
-  </button>
-  <div class="solution-content">
-      
-<li>Pääkriteerit</li>
-  <ul>
-    <li>Endokardiitille tyypillinen veriviljelylöydös eli kahdessa 12h välillä otetussa veriviljelyssä tyypillinen endokardiitin aiheuttaja (suun streptokokit, Streptococcus gallolyticus (aikaisemmin S. bovis), HACEK-ryhmä, S. aureus, enterokokki) tai vähintään kolme positiivista neljästä veriviljelynäytteestä (1. ja viimeisen näytteen välillä väh. 1h) tai yksi veriviljely on positiivinen C. burnetiille/faasin I vasta-ainetitterit ovat >1:800</li>
-    <li>Endokardiitti jossain kuvantamistutkimuksessa (TTE, TEE, CT, PET, SPECT)</li>
-  </ul>
+Muodostuu siis ns. valenivel, kun viskoosi neste (emuloi synoviaalinestettä) täyttää fibroottisen pseudosynoviaalisen kapselin. 
 
   </div>
 </div>
