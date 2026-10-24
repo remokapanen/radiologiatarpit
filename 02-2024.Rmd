@@ -407,8 +407,7 @@ Näkyy yleensä keuhkoalueen tiivistymäjuosteena (levyatelektaasit)
 
 Lohkorajat voivat vetäytyä kohti atelektaasia
 
-Isompana voi näkyä **vaaleana alueena** keuhkon ollessa kasassa/työntynyt pois siltä
-alueelta
+Isompana voi näkyä **vaaleana alueena** keuhkon ollessa kasassa/työntynyt pois siltä alueelta
 
 ![](images/atelektaasia.png)
   </div>
@@ -1007,7 +1006,7 @@ Ei vaihtoehtoja, koita vastata ilman.
   </button>
   <div class="solution-content">
 
-RTG heti (poissuljetaan murtumat), MRI myöhemmin kiireellisesti       
+RTG heti (poissuljetaan murtumat), MRI myöhemmin kiireellisesti     
   </div>
 </div>
 
@@ -1071,6 +1070,8 @@ Ohutleiketietokonetomografiassa (HRTT) näkyvät mattalasitiivistymät (ground-g
 a: Keuhkosyöpä näkyy kuvantamisessa tyypillisesti selkeämpänä, kiinteänä kasvainmassana tai paikallisena konsolidaationa, ei niinkään laajamittaisina tai diffuuseina mattalasitiivistyminä
 
 b: Sarkoidoosin klassinen kuvantamislöydös on molemminpuolinen keuhkoporttien ja välikarsinan imusolmukkeiden suureneminen sekä imuteitä noudattelevat pienet solmut. Mattalasimuutokset eivät ole sen tyypillisin ilmenemismuoto, vaikka ovatkin mahdollisia. 
+
+![](images/farmerslung.png)
   </div>
 </div>
 
@@ -1103,7 +1104,7 @@ Ultraäänellä pleuranesteen olemassaolon tarkistaminen on myös hyvin helppoa 
 - b. mri
 - c. uä
 - d. tt
-- e. thorax
+- e. thorax-rtg
 
 <div class="">
   <button class="solution-button"
@@ -1114,8 +1115,9 @@ Ultraäänellä pleuranesteen olemassaolon tarkistaminen on myös hyvin helppoa 
   <div class="solution-content">
       d/e
       
-TT tarkin, mutta thx-rtg tyypillinen ensilinjan kuvantaminen. UÄ on myös toimiva hätätilanteissa. 
+_TT herkin ja tarkin,_ mutta **thx-rtg tyypillinen ensilinjan kuvantaminen.** UÄ on myös toimiva hätätilanteissa. 
 
+![](images/ilmarinta.png)
   </div>
 </div>
 
@@ -1157,6 +1159,7 @@ Ei vaihtoehtoja, koita vastata ilman.
 
 MRI: magneetti on käytännössä ainoa kuvantaminen, jolla voidaan tarkastella itse selkäydintä.   
 
+![](images/mriinf.png)
   </div>
 </div>
 
@@ -1174,5 +1177,686 @@ Luunmurtuman paranemisen epäonnistuminen (non-union), jossa samalla todetaan fi
 
 Muodostuu siis ns. valenivel, kun viskoosi neste (emuloi synoviaalinestettä) täyttää fibroottisen pseudosynoviaalisen kapselin. 
 
+
   </div>
 </div>
+
+## HIFU syöpähoidossa, mitä kasvaimeen ohjataan? {#HIFU-syopahoidossa}
+
+- a. UÄ
+- b. radioaallot
+- c. mikroaallot
+- d. laser
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      a
+
+HIFU = high-intensity focused ultrasound. Ultraääniaallot fokusoidaan kudokseen, jossa ne kuumentavat sen ja aiheuttavat alueen kuolion. Ympäröivä kudos säästyy, koska energia keskittyy vain polttopisteeseen. Hoitoa ohjataan UÄ- tai MRI-kuvantamisella, eikä se vaadi viiltoa.
+
+Käytetään monien erilaisten muutosten hoidossa, esim. monien solidien tuumoreiden (maksa, osteoidi osteooma yms) hoidossa. Käytetään myös mm. Parkinsonin taudin ja essentiaalisen tremorin hoidossa aivoihin kohdistettuna; Suomessa erityisesti TYKS on tällaisen neuro-HIFU:n toteuttaja. 
+
+---
+
+b: Radioaaltoja käytetään RFA:ssa (radiotaajuusablaatio)
+
+c: mikroaaltoja MWA:ssa (mikroaaltoablaatio)
+
+d: Lasereita käytetään monissa tapauksissa: LITT (laser-indusoitu terminen terapia), eturauhasen viherlaserhoito (BPH:n hoito)...
+  </div>
+</div>
+
+## Mistä on kyse, kun lapselle käytetään mahdollisimman pientä säteilyannosta kuitenkin niin, että diagnostiikka ei kärsi? {#Mahd-pieni-annos}
+
+Ei vaihtoehtoja, koita vastata ilman
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+Optimointiperiaate = käytetään mahdollisimman pientä sädeannosta, jolla kuvantaminen kuitenkin pystytään järkevästi suorittamaan; ALARA = as low as reasonably achievable
+
+Radiologisten tutkimusten periaatteet = **oikeutusperiaate** (ionisoivan säteilyn käyttöön perustuvasta radiologisesta tutkimuksesta saatavan hyödyn tulee olla suurempi kuin haitta), **optimointiperiaate** (ALARA) ja **yksilönsuojaperiaate** (säteilyaltistusta aiheuttava toiminta on järjestettävä ja toteutettava niin että säteilylle altistuvan henkilön – tässä yhteydessä työntekijän – altistus ei ylitä annosrajoja). 
+  </div>
+</div>
+
+## Minkä diagnostiikkaan matala-annos TT sopii? {#Matala-annos-TT}
+
+- a. kolekystiitti
+- b. sappikivi
+- c. virtsatiekivi
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      c  
+
+Tehdään ilman kontrastia, kun yritetään kuvata virtsatiekiviä. Matalan annoksen vuoksi säderasitus on pieni, mikä on tärkeää, koska potilaat ovat usein nuoria ja kivet uusiutuvia.
+
+---
+
+Kolekystiitin ja sappirakkokivien kuvantamisessa paras kuvantamiskeino on UÄ; monet sappikivet eivät näy TT:ssä (tyypilliset kolesterolikivet ovat TT:ssä isodenssejä sapen kanssa).
+
+  </div>
+</div>
+
+## Minkä diagnostiikassa on hyötyä varjoaine-TT:stä? {#Minka-diagnostiikassa-va-tt}
+
+- a. perforaatio
+- b. vapaata nestettä
+- c. vatsaontelossa,
+- d. maksan repeämä
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      d
+      
+Voidaan nähdä verisuoniperäiset vauriot ja aktiivinen verenvuoto paremmin. 
+
+---
+
+Perforaatio näkyy usein ilman varjoainetta (vapaa ilma); vapaa neste näkyy myös (tosin voi olla verta, jolloin varjoaine-TT auttaa paikantamisessa)
+  </div>
+</div>
+
+## Mikä pitää paikkansa askiteksen UÄ? {#Mika-pitaa-paikkansa-askiteksen-ua}
+
+- a. askites näyttää samalta kuin sappineste
+- b. vahvempi kaiku kuin maksakudoksessa
+- c. askites näkyy pystykuvissa nestevaakapintoina
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      a
+
+Molemmat ovat vesimäisiä nesteitä -> näyttävät mustalta ultraäänellä kuvattaessa. 
+
+---
+
+b: askiteksen kaiku on heikompi kuin maksakudoksen. Neste on mustaa, ja vain mahdolliset väliseinät tai paksu sisältö lisäävät kaikua
+
+c: Nestevaakapinnat (neste–ilma-rajat) kuuluvat pääasiassa röntgen- ja TT-kuviin, ja UÄ ei kuvaa ilmaa samalla tavalla
+  </div>
+</div>
+
+## Mikä on ongelma rasvamaksan UÄ verrattuna TT? {#Ongelma-rasvamaksan-ua}
+
+- a. ei ionisoivaa säteilyä
+- b. obesiteetti voi vaikeuttaa kuvantamista
+- c. ei muistettu
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      b
+
+Rasvamaksa liittyy usein ylipainoon ja paksu ihonalainen ja vatsaontelon rasvakerros heikentää ultraäänen läpäisyä ja kuvanlaatua. Tämä on UÄ:n ongelma verrattuna TT:hen, jossa kuvanlaatu ei heikkene samalla tavalla
+
+  </div>
+</div>
+
+## Miten tunnistaa atelektaasin thx-rtg:ssa? 
+
+- a. lohkorajan siirtyminen
+- b. b-viivat
+- c. ei muistettu 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      a
+
+Romahtanut lohko vetää lohkorajaa, välikarsinaa ja henkitorvea itseään kohti
+
+---
+
+Atelektaasissa voi olla mm. seuraavia piirteitä:  keuhkoalueen tiivistymäjuoste (levyatelektaasit), lohkorajat voivat vetäytyä kohti atelektaasia ja isommassa atelektaasissa voi näkyä **vaaleana alueena** keuhkon ollessa kasassa/työntynyt pois siltä alueelta.
+
+![](images/atelektaasia.png)
+
+  </div>
+</div>
+
+## Radiologin lausunto: polvessa nivelrako mahdollisesti hieman kaventunut ja vähäisiä osteofyyttejä. Mikä Kellgren-Lawrence luokka? {#KL-luokkka-mika}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+Hieman epätyypillinen sanoitus, mutta jos mahdollisesti kaventunut ja mahdollisesti osteofyyttejä -> K-L-luokka 1
+
+Jos mahdollinen kaventuminen ja selvästi osteofyyttejä (vaikka olisi pieniä) -> K-Lluokka 2
+
+![](images/kellgren.png)
+![](images/kg1.png)
+![](images/kg2.png)
+![](images/kg3.png)
+
+  </div>
+</div>
+
+## Missä yleisimmin reumaeroosioita? {#Missa-reumaeroosioita}
+
+- a. sormien kärjet
+- b. metatarsaalien distaalipäät
+- c. solisluun distaalipäät
+- d. polven luut
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      b
+
+Sormien kärjet säästyvät yleensä; nivelreuma affisioi kädessä tyypillisesti PIP-, MCP- ja ranneniveliä. Jaloissa yleisimpiä paikkoja ovat jalkaterän metatarsofalangeaalinivelet. 
+
+a: DIP-nivelet kuuluvat pikemminkin nivelrikkoon 
+
+c: Mahdollinen, mutta harvinaisempi kohta
+
+d: Mahdollisia, mutta suuri nivel ja niissä eroosiot ovat harvinaisempia varhaisessa vaiheessa
+
+![](images/ra.png)
+  </div>
+</div>
+
+## Radiusmurtuma kuva: onko dorsaalista vai volaarista kallistusta vaiko hyväasentoinen {#Radmurt}
+
+Tärpissä ei esimerkkikuvaa, mutta mieti, miten kallistus mitataan ja mitkä ovat hyväasentoisen radiusmurtuman kriteerit aikuisilla.
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+![](images/radiusasennot.png)
+![](images/radiusmitat.png)
+![](images/radiusmitat2.png)
+  </div>
+</div>
+
+## Lonkkamurtuma: onko varussuuntainen siirtymä {#Varusta-lonkassa}
+
+Ei esimerkkikuvaa tärpissä. Mieti, millainen on varussuuntainen reisiluun pään asento ja millainen on valgussuuntainen?
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+   
+Varussuuntaisessa reisiluun murtumassa (tai ihan asennossa ilman murtumaakin) on reisiluun kaulan ja diafyysin välisen kulma normaalia pienempi (eli n. alle 125 astetta). Valgusasennossa taas kulma nousee normaalia suuremmiksi (n. yli 140 astetta). 
+   
+![](images/coxavalgavarus.png)
+![](images/varusfracture.png)
+  </div>
+</div>
+
+## Ilmatilapneumonia, mikä pitää paikkaansa? {#Ilmatilapneumonia-ov}
+
+- a. bakteerin aiheuttama yleensä
+- b. ilmabronkogrammi johtuu ilmateiden täyttymisestä tulehdusnesteellä
+- c. pallean raja nousee basaalisessa tulehduksessa
+- d. kliininen taudinkuva jatkuu pidempään kuin keuhkomuutokset ovat nähtävissä thx-rtg:ssa
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      a
+      
+Ilmatilapneumonia = lobaaripneumonia
+
+Ilmatilapneumoniaa ja bronkopneumoniaa aiheuttavat useimmiten bakteerit. Suomessa aikuisilla **yleisin lohkokeuhkokuumeen aiheuttajabakteeri on pneumokokki** (Streptococcus pneumoniae), joka aiheuttaa taudeista noin puolet. Tavallisimpia bronkopneumonian aiheuttajia ovat Staphylococcus aureus, Mycoplasma pneumoniae, Chlamydia pneumoniae, Haemophilus influenzae, Moraxella catarrhalis, Eshericia coli, Pseudomonas aeruginosa ja Francisella tularensis sekä adenovirukset. 
+
+---
+
+b: Ilmabronkogrammi syntyy, kun ympäröivät alveolit täyttyvät nesteellä mutta keuhkoputket pysyvät ilmaa sisältävinä ja erottuvat tummina tiivistymän sisällä. Ilmatiet eivät siis täyty tulehdusnesteellä. 
+
+c: Basaalisessa tulehduksessa pallean raja häviää (siluettimerkki) tai kuva muuttuu epäselväksi, ei nouse. Pallean nousu liittyy esim. atelektaasiin tai pallean halvaukseen. 
+
+d: Kuvantamislöydökset (tiivistymä) pysyvät yleensä näkyvissä pidempään kuin oireet. Kliininen paraneminen tapahtuu päivissä tai viikoissa, mutta röntgenmuutokset voivat hävitä vasta 4–12 viikossa
+
+![](images/pneumoniat.png)
+  </div>
+</div>
+
+## Millä luotettavimmin voi todeta lihasrepeämän? {#Milla-luotettavimmin}
+
+- a. TT 
+- b. MRI 
+- c. UÄ
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+MRI on parhaan pehmytkudosten erottelukyvynsä ansiosta luotettavin menetelmä lihasrepeämän toteamiseen: se näyttää repeämän laajuuden, asteen, verenvuodon ja turvotuksen sekä muut vammat.
+
+Myös UÄ on usein ihan hyvä ja nopea, mutta MRI on luotettavin. TT ei erottele pehmytkudoksia riittävän hyvin.
+  </div>
+</div>
+
+## Mikä TT:ssä käytetty varjoaine? {#Mika-TTssa-varjoaine}
+
+Ei vaihtoehtoja, yritä vastata ilman. Mikä taas olisi MRI:ssä?
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+**Jodi**
+
+MRI:ssä taas gadolinium.
+  </div>
+</div>
+
+## Mikä luu voi murtua Salter-Harris luokituksen mukaisesti? {#Mika-luu-SH}
+
+- a. pohjeluu
+- b. patella 
+- c. ei muistettu
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      a
+
+SH-luokitusta voidaan käyttää luissa, joissa on **kasvulevy** lapsilla; tämän takia patella, lantion luut ja kallon luut eivät sovellu. Pohjeluussa on kasvulevy lapsilla -> voidaan käyttää. Muita yleisiä SH-murtumien luita ovat mm. sääriluu ja värttinäluu. 
+
+---
+
+SH-luokitus on lasten kasvulevyä affisioivien murtumien luokittelutapa, joka perustuu murtuman morfologiasta suhteessa kasvulevyyn. 
+
+On myös Petersonin luokitus, joka on tarkempi ja on käytössä mm. Helsingissä enemmän; muuten maailmalla SH-luokitus on yleisemmin käytössä.
+
+<li>SH1 = Murtuma on pelkästään kasvulevyn hypertrofisessa vyöhykkeessä; epifyysi erkanee metafyysistä</li>
+<li>SH2 = Murtuma kulkee kasvulevyn halki metafyysiin; yleisin tyyppi</li>
+<li>SH3 = Murtuma kulkee kasvulevyn kautta epifyysin läpi nivelpintaan</li>
+<li>SH4 = Murtuma kulkee metafyysin, kasvulevyn ja epifyysin läpi nivelpintaan</li>
+<li>SH5 = Kasvulevyn puristusvamma, jossa kasvulevy murskautuu; ei dislokoitumista tyypillisesti; hyvin harvinainen</li>
+
+![](images/salter2.png)
+![](images/salter.png)
+
+  </div>
+</div>
+
+## Mikä on apofyysi? {#Apofyysi-mika}
+
+Ei vaihtoehtoja, koita vastata ilman apua.
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+Kehittyvässä luussa oleva kasvualue (luukyhmy, luutumake), joka toimii jänteiden kiinnityskohtana. 
+
+
+---
+
+On kiinni fyysissä eikä sillä ole yleensä nivelpintaa toiseen luuhun. 
+
+Luutuu yleensä murrosiän lopussa eikä aikuisilla enää ole todettavissa. Joskus apofyysi voi säilyä aikuisikään, mutta tyypillisesti nähdään vain lapsilla (esim. polvessa säilyessään on nimeltään patella bipartita). 
+
+On kasvuvaiheessa luun heikoin kohta, koska rustoinen kasvulevy on lihasvedon kohteena. Yleinen ongelma on ns. apofysiitti, jossa toistuvasta rasituksesta johtuva tulehdus aiheuttaa kipua alueella, esim. Osgood-Schlatterin tauti (sääriluun kyhmy, tuberositas tibiae) ja Severin tauti (kantaluu). Äkillisessä voimakkaassa lihassupistuksessa (esim. urheilussa) apofyysi voi myös irrota (avulsiomurtuma), tyypillisesti lantiossa (spina iliaca anterior inferior ja superior, istuinkyhmy) ja kyynärvarressa. 
+
+**Apofyysi on hyvä osata tunnistaa, koska sen voi helposti väärin tulkita muuten murtumaksi.**
+
+![](images/apofyysi.png)
+  </div>
+</div>
+
+
+##  HU -100 on mitä kudosta? {#Hu100}
+
+- a. veri
+- b. rasva
+- c. luu
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      b
+
+Vesi 0 ja kortikaalinen luu >1000.
+
+![](images/hu.png)
+  </div>
+</div>
+
+## Kuvatunnistus: onko varpaiden luita murtunut tai lisfrancin nivel sijoiltaan
+
+Ei esimerkkikuvaa tärpissä. Mieti mikä on lisfrancin nivel ja ligamentti, mikä on lisfrancin vamma ja miltä se näyttää?  
+
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+Lisfrancin nivelet ovat latinaksi articulationes tarsometatarsales. **Lisfrancin nivelen muodostavat proksimaaliosassa vaaja- ja kuutioluut (cuneiforme-luut ja cuboideum), jotka niveltyvät metatarsaaliluihin -> tarsometatarsaalinivel (TMT).** Chopartin nivel on proksimaalisempi jalkapöydän nivelistä. 
+
+Lisfrancin niveltasossa cuneiforme medialen ja MT II (ja III) tyven välissä on ns. Lisfrancin ligamentti. Pitää I ja II säteen yhdessä ja kannattelee poikittaista holvia.
+
+**Lisfrancin vammassa ligamentin rikkoutuessa cuneiforme mediale ja metatarsaali 2 tyvi pääsevät erkaantumaan, jolloin myös MT1 ja MT2 erkanevat toisistaan.**
+  
+Vammamekanismina on suoran iskun lisäksi joko aksiaalisuunnan voima, joka kohdistuu plantaarifleksiossa olevaan jalkaan (esim. putoaminen), tai etummaiseen jalkaan kohdistuva abduktio silloin kun takimmainen jalka on fiksoituneessa asennossa. Jälkimmäinen vammamekanismi tapahtuu esimerkiksi silloin, jos ratsastaessa jää jalastaan roikkumaan jalustimen varaan
+
+Lisfrancin niveltason vamma voi olla vaikeaa tunnistaa, sillä rtg ja kliiniset löydökset voivat olla vähäisiä. Tärkeä statuslöydös kuitenkin voi olla aristus/mustelma jalkaterässä/jalkapohjassa. Matalaenergiaisessakin vammassa päkiälle nousu on usein mahdotonta kivun vuoksi. Korkeaenergisessä vammassa varaus ei usein onnistu. Hoitamattomana vammat voivat aiheuttaa jalan biomekaniikan häiriön ja nivelrikon.
+ 
+Dislokoituneen tai epävakaan Lisfrancin niveltason murtumaluksaation tai luksaation hoito on kirurginen.
+
+![](images/cho.png)
+![](images/lisfrancligament.png)
+![](images/lisfranc.png)
+![](images/lf.png)
+![](images/lisfranc2.png)
+
+  </div>
+</div>
+
+
+## Oikeutusperiaate, mitä tarkoittaa {#Oikeutus-tarkoittaa}
+
+Ei vaihtoehtoja, koita vastata ilman apuja
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+Ionisoivan säteilyn käyttöön perustuvasta tutkimuksesta saatavan hyödyn tulee olla suurempi kuin haitta 
+
+---
+
+Radiologisten tutkimusten periaatteet = **oikeutusperiaate** (ionisoivan säteilyn käyttöön perustuvasta radiologisesta tutkimuksesta saatavan hyödyn tulee olla suurempi kuin haitta), **optimointiperiaate** (ALARA) ja **yksilönsuojaperiaate** (säteilyaltistusta aiheuttava toiminta on järjestettävä ja toteutettava niin että säteilylle altistuvan henkilön – tässä yhteydessä työntekijän – altistus ei ylitä annosrajoja). 
+
+  </div>
+</div>
+
+## Mikä kuvantaminen Alzheimerissa atrofian todentamiseen {#Alzheimerin-atrofia-mika-kuvantaminen}
+
+- a. TT
+- b. magneetti 
+- c. molemmat
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+Molemmat pystyvät tähän, mutta MK on herkempi ja tarkempi. TT kuitenkin usein riittää varsinkin, jos se on jo otettu jostain muusta syystä akuuttitutkimuksena (tällöin voidaan pyytää ns. lisälausunto kuvasta muisti-indikaatiolla).   
+
+![](images/alz3.png)
+![](images/alz1.png)
+![](images/alz2.png)
+  </div>
+</div>
+
+## Thorax-rtg-kuva, josta piti arvioda nesteen määrä {#Nesteenmaara}
+
+Ei esimerkkikuvaa tärpissä. Koita arvioida tästä kuvasta
+
+- a. pari dl
+- b. pari litraa
+- c. viisi litraa
+
+![](images/thxnestemaara.png)
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      b (oikealla)
+
+Nyrkkisääntönä voi miettiä, että jos pleurasopit lievästi pyöristyneet -> pari dl; jos keuhkossa puoleen väliin nestettä (n. hilustasolla) -> pari litraa. 
+  </div>
+</div>
+
+## Kuvantamisen sensitiivisyys 90%, mitä tarkoittaa? {#Kuvantamisen-sensitiivisyys-mita}
+
+Ei vaihtoehtoja, vastaa ilman apuja.
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+
+Testi löytää 90% potilaista, joilla on oikeasti tauti; loput 10% jäävät vääriksi negatiivisiksi.
+
+
+![](images/herkkyys.png)
+
+
+  </div>
+</div>
+
+## Mikä kuvantaminen avuksi pleurapunktiossa? {#Mika-kuvantaminen-pleurapunktiossa}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      UÄ
+      
+UÄ:llä voidaan nähdä reaaliaikaisesti pleuranesteen määrä ja sijainti, väliseinät (septat) sekä sopiva pistokohta. Neula voidaan ohjata nesteeseen turvallisesti, mikä pienentää komplikaatioiden riskiä; samoin usein askitespunktiot voi tehdä UÄ-ohjauksessa. 
+
+  </div>
+</div>
+
+## Millä indikaatiolla voitaisiin ottaa 25v miehen lannerangan rtg {#Milla-indikaatiolla-25}
+
+Ei vaihtoehtoja, koita vastata ilman
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+
+Nuorella aikuisella lannerangan natiivikuva ei kuulu rutiinitutkimuksiin tavallisessa selkäkivussa. Muut kuvantamiset (MRI tai akuuteissa traumoissa TT) ovat yleensä parempia ja ensisijaisempia. 
+
+Perusteltuja indikaatioita on aika harvoin, ehkä luutumisen kontrolloinnissa murtuman jälkeen. Tietysti lapsilla ja nuorilla otetaan usein, jos on epäily spondylolyysistä tai spondylolisteesistä (urheilijoilla, jatkuva rasituskipu), skolioosista tai synnynnäisistä nikamapoikkeavuuksista -> näillä indikaatioilla voi ottaa periaatteessa 25-vuotiaaltakin. 
+
+  </div>
+</div>
+
+## Suolen kuvantaminen millä? Varjoaineella/ilman mri/tt/rtg?
+
+Ei vaihtoehtoja, koita vastata ilman ja tietysti riippuu tilanteesta.
+
+<li>Jos esim. ohutsuolen kuvantaminen Crohnin tautia epäiltäessä niin varjoaine ja mri ensisijaisesti.</li>
+<li>Jos paksusuolen tutkiminen (TT-kolonografia) niin suoli täytetään ilmalla tai hiilidioksidilla ja tehdään yleensä TT-varjoaineen kanssa</li>
+<li>Akuutissa vatsassa yleensä vatsa-TT varjoaineella (vain virtsatiekivet ei iv varjoainetta) </li>
+<li>UÄ voidaan käyttää mm. lapsilla usein akuutin vatsan tai monien muidenkin ongelmien yhteydessä (intussusseptio, appendisiitti, pylorusstenoosi).</li>
+
+## Miten varjoaine urografiassa
+
+- a. iv
+- b. munuaisvaltimo
+- c. ei muistettu
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      a
+      
+TT-urografiassa virtsatiet kuvataan eritysvaiheessa suonensisäisen varjoaineen annon jälkeen.
+
+**Virtsatiekiviepäilyissä natiivi-TT on pääosin syrjäyttänyt urografian,** jossa tarvitaan suonensisäistä jodivarjoainetta. 
+
+MK-urografiassa virtsateiden näkymiseen ei tarvita välttämättä varjoainetta, vaan niiden erottuminen perustuu nesteisiä rakenteita kuvaavaan tekniikkaan
+
+![](images/ut.png)
+![](images/urography.png)
+  </div>
+</div>
+
+## Mikä deterministinen {#Mika-deterministinen}
+
+- a. syöpä
+- b. mutaatio
+- c. DNA-vaurio
+- d. harmaakaihi
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      d
+
+Säteilyn deterministiset haitat ovat kynnysarvollisia: haitta ilmenee vasta tietyn kynnysannoksen ylittyessä, ja sen vaikeus kasvaa annoksen mukana. Harmaakaihi (silmän mykiön samentuma) on tyypillinen deterministinen haitta, jonka muita esimerkkejä ovat ihon punoitus, hiusten lähtö ja hedelmättömyys.   
+
+**Syöpä, mutaatio ja DNA-vaurio ovat stokastisia haittoja:** todennäköisyys kasvaa annoksen mukana, mutta kynnysarvoa ei ole, ja haitan vaikeus ei riipu annoksesta.
+
+  </div>
+</div>
+
+## Miksi sydän on THX-RTG:ssä makuukuvassa suurempi kuin pystykuvassa? {#Miksi-sydan-suurempi}
+
+Ei vaihtoehtoja, mutta koita vastata ilman.
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+Makuukuva on AP-kuva (pystykuva on PA), jolloin sydän on kauempana detektorista -> piirtyy isompana. 
+
+![](images/apvspa.png)
+  </div>
+</div>
+
+## Miltä maksan kysta näyttää ultraäänellä? {#Kysta-uassa}
+
+Ei vaihtoehtoja, koita vastata ilman. 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+Tummalta nestetäytteiseltä rakenteelta, joka jättää taakseen kaikuvahvistuman. Mahdollisesti kystan seinämä hieman muuta maksaa tiiviimpi. 
+
+---
+
+Tavallisin hyvänlaatuisista fokaalisista maksamuutoksista on (biliaarinen) kysta. Kystia todetaan noin 2–7 %:lla väestöstä. Ne voivat olla yksittäisiä tai multippeleita, ja kooltaan ne voivat vaihdella muutamasta millimetristä useisiin senttimetreihin.
+
+**Kystat löytyvät tyypillisesti sattumalta, eikä niihin liity pahanlaatuisuuspotentiaalia.**
+
+![](images/maksakysta.png)
+  </div>
+</div>
+
+##  Kuva: keuhkotuumori vai aortan aneurysma 
+
+Ei esimerkkikuvaa tärpissä, mutta omassa tentissäni oli selkeä tuumori eikä aortan aneurysma. 
+
+Kannattaa arvioida, onko muutos aortan kanssa yhtenäinen ja siten voi nähdä, onko aorta laajentunut vai onko tuumorimuutos erillinen; sivukuva auttaa. 
+
+![](images/tu1.png)
+![](images/tu2.png)
+
+![](images/ao.png)
