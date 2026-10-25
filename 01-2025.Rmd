@@ -1,3 +1,21 @@
 # 2025
 
-Tulossa
+Lisää tulossa (samoin 2024 edeltävät vuodet)
+
+## Mihin kohtaan niveltä nivelreuma vaikuttaa {#Mihin-kohtaan-nivelta-nivelreuma}
+
+Ei vaihtoehtoja, mutta koita vastata ilman apuja. 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+Nivelkalvo eli synovia on nivelreumassa vaurioituva nivelen osa ja nivelturvotus onkin yksi ensimmäisiä löydöksiä. Vaikuttaa kylläkin luuhunkin, mutta ensimmäiseksi nivelkalvoon. 
+
+![](images/rheum.png)
+  </div>
+</div>

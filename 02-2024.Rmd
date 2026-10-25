@@ -1090,7 +1090,7 @@ b: Sarkoidoosin klassinen kuvantamislöydös on molemminpuolinen keuhkoporttien 
   <div class="solution-content">
       a
 
-Ultraääni on herkempi pleuranesteen osoittaja kuin thx-rtg; osoittaa jopa juuri yli 20ml kertymät (thx-rtg vaatii tyypillisesti >200ml). Jopa TT on vähemmän herkkä kuin ultra. 
+Ultraääni on herkempi pleuranesteen osoittaja kuin thx-rtg; osoittaa jopa juuri yli 20ml kertymät (thx-rtg vaatii tyypillisesti >200ml frontaalikuvassa ja >75ml lateraalikuvassa). Jopa TT on vähemmän herkkä kuin ultra. 
 
 Ultraäänellä pleuranesteen olemassaolon tarkistaminen on myös hyvin helppoa ja nopeasti opeteltavissa. Onkin siis hyvin järkevää oppia tarkistamaan pleurasopet UÄ:llä, jotta ei tarvitse kuivatella potilaita sokkona osastolla. 
 
@@ -1850,7 +1850,7 @@ Tavallisin hyvänlaatuisista fokaalisista maksamuutoksista on (biliaarinen) kyst
   </div>
 </div>
 
-##  Kuva: keuhkotuumori vai aortan aneurysma 
+## Kuva: keuhkotuumori vai aortan aneurysma 
 
 Ei esimerkkikuvaa tärpissä, mutta omassa tentissäni oli selkeä tuumori eikä aortan aneurysma. 
 
@@ -1860,3 +1860,565 @@ Kannattaa arvioida, onko muutos aortan kanssa yhtenäinen ja siten voi nähdä, 
 ![](images/tu2.png)
 
 ![](images/ao.png)
+
+## Mikä on generaattorin rooli röntgenkuvassa? {#Generaattorin-rooli}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+**Rtg-generaattorilla tuotetaan suurjännite, jolla elektronit kiihdytetään röntgenputkessa.**
+
+---
+
+Kiihdytysjännite vaihtelee sovelluksen mukaan n. 26 kV:sta (mammografia) aina 125 kV:iin (keuhkokuvaus). Jotta kiihdytysjännite olisi mahdollisimman tasainen, laitteen käyttöjännite muunnetaan ensin röntgengeneraattorilla suurtaajuiseksi ja sen jälkeen jännite muunnetaan suurjännitteeksi. Fotonien määrää säädetään kuvauksen sähkömäärää muuttamalla.
+
+Kun kiihdytetyt elektronit törmäävät anodimateriaaliin, syntyy jarrutussäteilyä ja karakteristista röntgensäteilyä. Hyötysuhteeltaan röntgensäteiden tuotto röntgenputkessa on huono: elektronisuihkun energiasta vain 1 % muuntuu röntgensäteiksi ja loppu muuntuu lämmöksi ja valoksi. Röntgenputkelta edellytetään tehokasta säteilytuottoa mutta samalla hyvää lämmönjohtokykyä, jotta anodimateriaali ei lämpene liikaa ja vaurioidu.
+
+Syntyvästä röntgenfotonikeilasta suodatetaan pois pienimmän energian fotonit. Pienienergiaisimmat fotonit eivät saavuttaisi ilmaisinta, ja ne aiheuttaisivat potilaalle turhaa säteilyrasitusta. Siksi pienienergiaiset fotonit on syytä suodattaa fotonikeilasta pois. Suodatinmateriaalina käytetään muutaman millimetrin paksuista alumiinilevyä tai millimetrin kymmenesosien paksuista kuparilevyä. Kuparia käytetään suodatinmateriaalina suurilla kiihdytysjännitteillä, ts. kun fotonien energia on suuri. Käytettäessä suodatusta fotonikeilan efektiivinen energia kasvaa.
+
+Säteilykeila rajataan kaihtimilla juuri sen kokoiseksi kuin on tarpeellista. Liian suureksi rajattu kuva aiheuttaa potilaalle ylimääräistä säteilyrasitusta ja kasvattaa sirontaa kohteen sisällä, mikä heikentää kuvan laatua. Kaihdinkoppaan on usein kiinnitetty pinta-ala-annosmittari (nk. DAP-mittari, dose area product), joka rekisteröi kuvauksesta potilaalle aiheutuneen säteilyaltistuksen. Laite saattaa määrittää säteilyaltistuksen myös laskennallisesti. Muussa tapauksessa altistus määritetään röntgenputken säteilytuotannon avulla. Röntgensäteet läpäisevät kuvattavan kohteen vain osittain. Säteiden intensiteetti vaimenee kuvausjännitteen, kudosten vaimenemiskertoimen ja kudoksen paksuuden mukaan. Kuvausjännite valitaan kuvattavan kohteen mukaan, jotta kudoskontrasti kuvassa on optimaalinen ja ilmaisin rekisteröi riittävästi fotoneja.
+
+Kiihdytysjännitteen kasvaessa kuvakontrasti heikkenee. Toisaalta liian pienellä kuvausjännitteellä kuvauskohde absorboi fotoneja liikaa eikä niitä saada riittävästi ilmaisimelle kuvanmuodostusta varten.
+
+Röntgenfotonit voivat muuttaa suuntaansa kuvattavassa kohteessa. Ilmiötä kutsutaan Comptonin sironnaksi. Comptonin sironta on sitä todennäköisempää, mitä suurempi on kohdeatomin elektronitiheys ja mitä pienempi on fotonien energia. Sironta on myös voimakkaampaa paksummassa kohteessa. Kohteessa sironnut fotoni poikkeaa primaarisen fotonikeilan suunnasta ja näin ollen ilmaisimelle päästyään heikentää kuvan laatua. Sironneiden fotonien pääsyä ilmaisimelle voidaan rajoittaa käyttämällä hilaa.
+
+Hila koostuu primaarisäteilyn suuntaisista metallilamelleista, joiden välissä on vähän säteilyä absorboivaa ainetta. Hila poistaa noin viidenneksen keilan fotoneista, mitä joudutaan kompensoimaan sähkömäärää kasvattamalla. Hila voi olla fokusoitu tietylle kuvausetäisyydelle tai fokusoimaton suuria kuvausetäisyyksiä varten. Fokusoitu hila poistaa tehokkaasti hajasäteilyä, mutta on herkempi keskitysvirheille kuin fokusoimaton hila. Hila voi myös olla liikkuva, jolloin vältytään hilalamellien aiheuttamilta raitamaisilta kuvavääristymiltä. Staattisen hilan aiheuttamia vääristymiä voidaan vähentää valitsemalla riittävän tiheälamellinen hila tai suodattamalla hilaraidat kuvasta digitaalisen kuvankäsittelyn keinoin. Sirontaa voidaan vähentää myös kasvattamalla potilaan ja ilmaisimen välistä etäisyyttä, jolloin sironneet fotonit ohittavat ilmaisimen. Ratkaisua kutsutaan ilmahilaksi.
+
+Jotta riittävä määrä fotoneita saavuttaisi ilmaisimen, käytetään röntgenkuvauksessa valotusautomatiikkaa. Valotusautomaatin kammiot mittaavat ilmaisimen takapuolelle saapuvien fotonien määrää ja katkaisevat valotuksen, kun riittävä määrä fotoneita on saavuttanut kammion. Näin fotoneita saadaan ilmaisimelle riittävästi kuvauskohteen paksuudesta riippumatta. Kuvausjännite säädetään tyypillisesti manuaalisesti.
+
+Ilmaisin kiinnitetään kuvaustelineeseen, johon potilas on tuettu. Digitaalisissa kuvausjärjestelmissä erilliset telineet voidaan korvata motoroitujen varsien päässä olevalla röntgenputkella ja ilmaisimella, jonka tukipinta toimii telineenä esim. keuhkokuvauksissa. Tarvittaessa ilmaisin siirtyy automaattisesti pöytätason alle, jos halutaan kuvata makuulla olevaa potilasta.
+
+![](images/rtg.png)
+
+  </div>
+</div>
+
+## Bankarin murtumassa vaurioituu 
+
+- a. humerus 
+- b. lapaluu 
+- c. solisuu 
+- d. joku neljäs
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      b
+
+Glenoideum tarkalleen ottaen. Bankartin vaurio tarkoittaa olkanivelen etualaosan rustoisen renkaan (labrum) irtoamista/repeämää tyypillisesti oolkanivelen sijoiltaanmenon yhteydessä. Repeämä tapahtuu joko lapaluun etureunan luukappaleen kera (bony bankart -> Bankartin murtuma) tai ilman.
+
+---
+
+a: Humeruksessa usein Bankartiin liittyvä vamma on Hill-Sachsin vaurio, eli olkaluun pään takaosan painuma, joka syntyy, kun humeruksen posterolateraalinen pää osuu nivelkuopan reunaan anteriorisessa sijoiltaanmenossa. Kun Hill-Sachs vaurio havaitaan, tulisi huolellisesti arvioida, onko anteriorisessa glenoidissa Bankartin leesiota
+
+![](images/bankart1.png)
+![](images/bankart2.png)
+![](images/hs.png)
+
+
+  </div>
+</div>
+
+## MRCP mitä sillä kuvataan? {#MRCP-mita}
+
+- a. haima 
+- b. sappitiet 
+- c. maksa 
+- d. selkäydin
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      b
+
+MRCP = Magnetic Resonance Cholangiopancreatography = magneettikolangiopankreatikografia = MRI-tekniikka, joka kuvaa sappitiet ja haimatiehyen ilman varjoainetta tai säteilyä. Nestepitoiset rakenteet erottuvat kirkkaina. 
+
+
+Sappiteiden magneettikuvaus (magneettikolangiografia, MRCP) on paras kajoamaton diagnostinen tutkimusmenetelmä, jos epäillään sappitiekiviä. Otetaankin preoperatiivisesti, jos epäillään sappitiekiviä; esim. jos sappiarvot koholla tai UÄ:ssä sappitiet dilatoituneet. Koska MRCP:ssä ei käytetä mitään varjoaineita, se on potilaalle riskitön.
+
+Haimatiehyt näkyy myös, joten vaihtoehto a on osittain oikein, mutta itse haimaa ei sinänsä kuvanneta. 
+
+![](images/mrcp.png)
+  </div>
+</div>
+
+## Kuva: onko olkanivel luksoitunut?
+
+Ei esimerkkikuvia, mutta ilmeisesti piti vertailla kahta kuvaa ja toisessa kuvassa oli humerusmurtuma, toisessa ei. Kummassakaan ei ollut itse nivelen luksoitumista. 
+
+## Pleuranesteen määränarvio. Toinen pleurasoppi oli vähän pyöristynyt {#Pyoristynyt-paljon}
+
+- a. alle 20 ml
+- b. 20-50ml 
+- c. 100-200ml 
+- d. joku neljäs vaihtoehto
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      c (tai d riippuu mitä oli)
+
+N. 200ml vaaditaan yleensä pleurasopin pyöristymiseen (n. 75ml lateraalikuvassa); jos taas hilustasolle asti nestettä, niin määrä on pari litraa. 
+
+![](images/xray.png)
+  </div>
+</div>
+
+## Kuvaus, että potilaalla retrosternaalinen tila laajentunut, palleat litistyneet, pieni sydän. Onko {#Retrolaajentuma}
+
+- a. sarkoidoosi 
+- b. emfyseema 
+- c. sydämen vajaatoiminta 
+- d. joku neljäs vaihtoehto
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      b
+
+Keuhkoahtaumatauti (COPD) käsittää terminä sekä kroonisen bronkiitin että emfyseeman. **Emfyseema = keuhkolaajentuma;** terminaalisesta bronkiolista distaalisten osien palautumattoman tuhoutumisen aiheuttamaa laajentumista. 
+
+Emfyseeman tärkeimpiä keuhkokuvalöydöksiä ovat: 
+
+<li>Tynnyrimäinen rintakehä</li>
+<li>Palleat normaalia alempana ja tasoittuneet</li>
+<li>Keuhkojen keski- ja periferiaosien verisuoniniukkuus</li>
+<li>Hilusten verisuonirungot ovat kookkaat</li>
+<li>Retrosternaalitila on laajentunut</li>
+<li>Interkostaalivälit ovat leventyneet</li>
+<li>Voi näkyä ilmabullia</li>
+<li>Sydän on tyypillisesti pienikokoinen</li>
+
+---
+
+a: Sarkoidoosissa nähdään tyypillisesti varsinkin hilusten imusolmukkeiden suurentumista ja keuhkomuutoksia
+
+c: Sydämen vajaatoiminnassa sydänvarjo on usein suurentunut ja keuhkoissa on kongestiota. 
+
+![](images/emfyseema1.png)
+![](images/emfyseema2.png)
+
+  </div>
+</div>
+
+## Kuva: Potilasta närästää usein, mikä kuvassa selittää asiaa {#Narastaa-usein}
+
+Ei esimerkkikuvaa, tähän valittu wikin vastaukseen sopiva kuva.
+
+![](images/hiatus.png)
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Hiatushernia
+
+Tyypillistä on kaasu-ilma-pinta pallean yläpuolella. 
+
+---
+
+Hiatushernia, yleisimmin vielä liukutyrä (90%), on yleinen refluksitaudille (GERD) altistava anatominen poikkeavuus. Hiatusherniassa mahalaukun osa luisuu pallean ruokatorvihiatuksen läpi. Liukutyrässä GE-junktio sekä mahalaukun yläosa luisuu thoraxonteloon -> Terävä Hisin kulma ei enää toimi refluksia estävänä läppäsysteeminä, mikä altistaa refluksitaudille.
+
+Hiatushernia diagnosoidaan yleensä tähystyksellä, mutta tarvittaessa voidaan käyttää tietokonetomografiaa tai ruokatorven ja mahalaukun perinteistä varjoainekuvausta lähinnä anatomian selvittämiseen. Hiatushernia voi näkyä myös tavanomaisessa keuhkokuvauksessa sydämen takana näkyvänä tiivistymänä, jossa on ilma-nestepinta
+
+
+![](images/hiatushernia.png)
+![](images/hiatushernia2.png)
+
+  </div>
+</div>
+
+## Mikä seuraavista stokastinen {#Mika-stokastinen}
+
+- a. syöpä
+- b. harmaakaihi
+- c. hiusten lähtö
+- d. joku
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      a
+
+Stokastinen haitta: Todennäköisyysperusteinen. Annoksen kasvaessa haitan todennäköisyys kasvaa, mutta vaikeusaste ei riipu annoksesta. Kynnysannosta ei oleteta olevan, eli pienikin annos voi teoriassa aiheuttaa haittaa. Esimerkkejä ovat syöpä ja perinnölliset vauriot (mutaatiot).
+
+Deterministinen haitta: Ilmenee varmasti, kun annos ylittää tietyn kynnysarvon, ja haitan vaikeusaste kasvaa annoksen mukana. Esimerkkejä ovat harmaakaihi, hiusten lähtö, ihon punoitus ja hedelmättömyys.
+
+---
+
+b ja c: deterministisiä
+
+  </div>
+</div>
+
+## IV-varjoaineen käyttöön liittyen pitää paikkaansa {#IV-varjoaineeseen-paikkansa}
+
+- a. varjoaineen puoliintumisaika on 1vrk
+- b. pulmonaaliangiografiassa kuvan ottaminen ajastetaan niin, että nousevan aortan varjoainepitoisuus on suurimmillaan
+- c. ja d. jotain
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      c tai d
+
+a:  Jodivarjoaineen puoliintumisaika yleensä joku 1-2h (ja gadoliniumin n. puoli tuntia)
+
+b: Pulmonaaliangiografiassa kuva silloin kun keuhkovaltimot optimaalisessa kontrastissa. 
+  </div>
+</div>
+
+## Polvessa kipua ja turvotusta, vetolaatikkotestissä löysä, rtg ei löydöstä. Miksi kuvaat seuraavaksi MRI? {#Miksi-mri-seuraavaksi}
+
+Ei vaihtoehtoja, koita vastata ilman apuja.
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Epäilet nivelsidevammaa (ACL tai PCL)
+
+Löysä vetolaatikkotesti viittaa ristisiteen (etummaisen tai takimmaisen) vaurioon, ja röntgen ei näytä pehmytkudoksia. MRI on paras tutkimus ristisiteiden ja muiden pehmytkudosrakenteiden arvioinnissa.
+
+  </div>
+</div>
+
+## Vuosittainen taustasäteilyn määrä {#Vuosittainen-taustasateily-maara}
+
+- a. 3 mSv 
+- b. 12 mSv 
+- c. 36 mSv
+- d. 20 mSv
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+5.9 mSv on keskimääräinen vuosittainen efektiivinen annos suomalaisella; tämä laskee mukaan myös lääketieteelliset tutkimukset keskivertoihmisellä.
+
+  </div>
+</div>
+
+## Ultraäänen nopeus kudoksessa vs. äänen nopeus ilmassa {#UA-ilmassa-v-kudoksessa}
+
+- a. yhtä nopeita
+- b. UÄ kudoksessa nopeampi
+- c. ääni ilmassa nopeampi
+- d. ei voi verrata, riippuu käytetystä taajuudesta
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      b
+
+Ääni etenee kudoksessa noin 1540 m/s (pehmytkudos keskimäärin), kun taas ilmassa se etenee noin 343 m/s.
+
+---
+
+d: Äänen nopeus riippuu väliaineesta (tiheys ja kimmoisuus), ei taajuudesta, joten ultraääni ja kuuluva ääni etenevät samalla nopeudella samassa väliaineessa.
+
+  </div>
+</div>
+
+## Mikä rtg-löydös viittaa lonkan artroosiin? {#Mika-viittaa-artroosiin}
+
+Tärpissä ei vaihtoehtoja, mutta mieti mitä löydöksiä voisi olla mainittu oikeassa vastauksessa
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+
+Nivelraon kaventuminen, reunaosteofyytit, skleroosi, subkondraaliset kystat -> eli siis tyypilliset artroosin piirteet 
+
+![](images/kellgren.png)
+![](images/kg3.png)
+
+  </div>
+</div>
+
+## Tmp radiologi voi tehdä verisuonen embolisaation, mitä tämä tarkoittaa? {Mita-embolisaatio-tarkoittaa}
+
+Ei vaihtoehtoja tärpissä, koita vastata ilman apuja. 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+**Embolisaatiossa vuotava valtimo tukitaan viemällä valtimoteitse (useimmiten nivusvaltimo) suoneen materaalia (valintaan vaikuttaa vuotopaikka ja anatomia), joka tukkii vuotokohdan.**
+
+Ennen embolisaatiohoitoa on olennaista määrittää vuotopaikka (tässä paras on vuoto-TT); jos ei näy aktiivista vuotoa, ei ole järkeä embolisoidakaan. 
+
+  </div>
+</div>
+
+## Atelektaasin yleisin aiheuttaja? 
+
+- a. keuhkovaltimon stenoosi
+- b. keuhkolaskimon supistuminen
+- c. keuhkoputken ahtauma
+- d. joku
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      c
+
+Keuhkoputken ahtauma; voi myös johtua arpimuutoksista, ulkopuolisesta puristuksesta… Kun ilma ei pääse tukoksen taakse, jäljelle jäänyt ilma imeytyy ja keuhkokudos luhistuu.
+
+  </div>
+</div>
+
+## Kaulan ekstensio- ja fleksiomurtumissa, mikä on oikein? {#Ext-flx-murtumissa-ov}
+
+- a. molemmissa murtuu ylimpiä nikamia
+- b. molemmissa murtuu alimpia
+- c. ekstensio murtaa ylimpiä ja fleksio alimpia
+- d. toisinpäin
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      c
+
+Ekstensiovammat (kaulan ylitaivutus taakse): vauriot painottuvat yläkaulan nikamiin. Tyypillinen on hirttäjän murtuma (C2:n kaarien murtuma), ja kaularangan ekstensiovammoissa osuu myös C1–C2-alue. 
+
+Fleksiovammat (kaulan taivutus eteen): vauriot painottuvat alakaulan nikamiin (C5–C7), esimerkiksi kiilamainen nikamamurtuma, kyynelmurtuma (flexion teardrop) ja nikamien sijoiltaanmeno. 
+
+---
+
+Poikkeuksiakin on, mutta tämä on yleinen periaate
+
+  </div>
+</div>
+
+## Spondylolisteesi, mitä tarkoittaa? {#Mita-spondylolisteesi-tarkoittaa}
+
+Ei vaihtoehtoja, koita vastata ilman apuja. 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Nikamansiirtymää
+
+Spondylolyysi tarkoittaa nikamankaaren höltymää, joka johtuu tyypillisesti pars interarticulariksen häiriöstä (yleensä rasitusmurtuma). Taustalla on useimmiten toistuvat hyperekstensiot ja rotaatiot (useimmiten kyseessä siis nikamakaaren takarakenteen rasitusmurtuma), perinnöllinen taipumus (kaaren ohuus) ja kasvuvaiheen suuri kuormitus urheilussa. 
+
+Taas nikamansiirtymä eli spondylolisteesi syntyy useimmiten joko nikamankaaren höltymän (spondylolyysi) tai välilevyrappeuman seurauksena. Spondylolyysi on tavallisin L5-nikamassa, ja spondylolyyttinen nikamasiirtymä nähdään tavallisimmin presakraalivälissä; vrt. degeneratiivinen spondylolisteesi, joka johtuu nivelten ja välilevyjen kulumisesta -> vanhemmilla potilailla taas L4-L5-välissä. 
+
+![](images/spond2.png)
+![](images/spond1.png)
+  </div>
+</div>
+
+## Virtsatiekiviepäily, Kivi-TT, miten kuvaat? {#kivi-tt-miten}
+
+- a. natiivina
+- b. arteriavaiheen kuva,
+- c. venavaiheen
+- d. joku
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      a
+
+Kivi-TT eli matala-annos-TT otetaan ilman suonensisäistä varjoainetta. Kalkkikivet ovat natiivi-TT:ssä selvästi tiheämpiä kuin ympäröivä kudos ja näkyvät hyvin. Varjoaine voisi peittää kiven tai vaikeuttaa sen erottamista virtsan varjoainepitoisuudesta. 
+
+  </div>
+</div>
+
+## Mihin doppler perustuu?
+
+Ei vaihtoehtoja wikissä, koita vastata ilman apuja. 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      a
+
+Kudoksen liike aiheuttaa muutoksen siitä heijastuvan ääniaallon taajuuteen
+ 
+Jos molekyyli liikkuu kohti mittaria, niin havaittu taajuus on lähettyä korkeampi ja jos siirtyy poispäin, niin taajuus on matalampi.
+
+![](images/dopp.png)
+  </div>
+</div>
+
+## Päivystyksessa iäkäs potilas loukannut lonkkansa, epäilet murtumaa mutta röntgenissä ei murtumaa {#Paivystyksessa-iakas-lonkkapotilas}
+
+- a) otan potilaan osastolle ja kontrollin röntgenin lähipäivinä 
+- b) päivystyksellinen TT 
+- c) kiireellinen MRI
+- d) jotain
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      b
+
+Päivystyksellinen TT, koska lonkkamurtumissa hoito halutaan toteuttaa nopeasti -> saadaan potilas nopeasti liikkeelle eikä jäädä sängyn pohjalle kuolemaan.
+
+Periaatteessa kiireellinen MRI on myös hyvä vastaus, koska se on herkin metodi piilevän murtuman toteamiseen, mutta sitä ei usein saada tarvittavan nopeasti. 
+
+  </div>
+</div>
+
+## Milloin lannerangan rtg indisoitu?
+
+Tärpissä ei vaihtoehtoja, mutta mm:
+
+- Todetun rankamurtuman kontrolli potilaan seistessä
+- Hyväkuntoisen potilaan kompressiomurtuman poissulku
+- Taivutuskuvat instabiliteettia epäiltäessä
+- Lapsilla spondylolyysin/spondylolisteesin epäily; lannerangan sivukuva seisten on usein riittävä radiologinen tutkimus
+
+## Miten sappineste näkyy kirkkaana MRCP:ssä? {#Miten-sappineste-kirkas-mrcp}
+
+- a. jodi 
+- b. barium 
+- c. gadolinium
+- d. sappi näkyy itsestään kirkkaana
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      d
+
+MRCP:ssä ei käytetä varjoainetta. 
+
+---
+
+MRCP = Magnetic Resonance Cholangiopancreatography = magneettikolangiopankreatikografia = MRI-tekniikka, joka kuvaa sappitiet ja haimatiehyen ilman varjoainetta tai säteilyä. Nestepitoiset rakenteet erottuvat kirkkaina. 
+
+Sappiteiden magneettikuvaus (magneettikolangiografia, MRCP) on paras kajoamaton diagnostinen tutkimusmenetelmä, jos epäillään sappitiekiviä. Otetaankin preoperatiivisesti, jos epäillään sappitiekiviä; esim. jos sappiarvot koholla tai UÄ:ssä sappitiet dilatoituneet. Koska MRCP:ssä ei käytetä mitään varjoaineita, se on potilaalle riskitön.
+
+![](images/mrcp.png)
+
+  </div>
+</div>
+
+## Mikä kuvaa rtg-säteilyä parhaiten {#Mika-kuvaa-rtg-parhaiten}
+
+- a. Comptonin sironta
+- b. vaimenee eksponentiaalisesti kudoksen paksuuden kasvaessa
+- c. pienempi allonpituus kuin valolla
+- d. joku
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      d?
+
+Kaikki ovat sinänsä totta, joten jos d oli "kaikki totta", niin se voisi olla hyvä vaihtoehto. 
+
+a: Comptonin sironta (fotonin ja väliaineen elektronin välinen vuorovaikutusmekanismi, jossa fotoni siroaa epäelastisesti väliaineen elektroneista; fotoni vuorovaikuttaa elektronin kanssa luovuttaen osan energiastaan elektronille ja muuttaen kulkusuuntaansa) on yksi röntgensäteilyn vuorovaikutustavoista aineen kanssa (muita ovat fotosähköinen ilmiö ja koherentti sironta). Ei tosin ole koko rtg-säteilyn kuvaus, vaikka onkin yksi sen piirteistä.
+
+b: Pitää paikkansa, tosin kuvailee säteilyn vaimenemista aineessa (Beerin-Lambertin laki), ja sama pätee muillekin fotonisäteilyn lajeille, kuten gammasäteilylle
+
+c: Röntgensäteily on sähkömagneettista säteilyä, jonka aallonpituus (noin 0,01–10 nm) on huomattavasti lyhyempi kuin näkyvän valon (noin 400–700 nm). Sen fotonienergia on korkea, minkä vuoksi se läpäisee kudoksia ja on ionisoivaa. 
+  </div>
+</div>
+
+## Aivokuvat, jossa aivokudoksen keskikohdassa kirkas pyöreä muutos ja toisessa tumma pyöreä muutos {#Kirkas-pyorea}
+
+Ei kuvaa, mutta mikä voisi olla vastaus pelkästään kuvauksen perusteella. 
+
+- a. molemilla infarkti
+- b. molemmilla vuoto
+- c. toisella infarkti ja toisella vuoto
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      c
+
+**Aivojen natiivi-TT:ssä kirkas on tuoretta verta ja tumma on infarkti** -> tumma pyöreä muutos on infarkti ja keskikohdan kirkas muutos on intraparenkymaalinen vuoto. 
+  </div>
+</div>
