@@ -19,3 +19,129 @@ Nivelkalvo eli synovia on nivelreumassa vaurioituva nivelen osa ja nivelturvotus
 ![](images/rheum.png)
   </div>
 </div>
+
+## Mitä optimointi tarkoittaa säteilytutkimuksissa? {#Optimointi}
+
+Ei vaihtoehtoja, koita vastata ilman apuja. 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+Optimointi = tutkimukseen käytettävä säteilyannos pidetään mahdollisimman pienenä (ALARA, as low as reasonably possible). 
+
+---
+
+Radiologisten tutkimusten periaatteet = **oikeutusperiaate** (ionisoivan säteilyn käyttöön perustuvasta radiologisesta tutkimuksesta saatavan hyödyn tulee olla suurempi kuin haitta), **optimointiperiaate** (ALARA) ja **yksilönsuojaperiaate** (säteilyaltistusta aiheuttava toiminta on järjestettävä ja toteutettava niin että säteilylle altistuvan henkilön – tässä yhteydessä työntekijän – altistus ei ylitä annosrajoja). 
+
+  </div>
+</div>
+
+## Missä suurin säderasitus {#Missa-suurin-rasitus}
+
+- a. lantion rtg
+- b. lantion tt
+- c. lannerangan rtg
+- d. sinus tt
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      b
+      
+TT:n säderasitus on huomattavasti suurempi kuin natiiviröntgenin. Sinus-TT:n (nenän sivuonteloiden tietokonetomografia) annos on pienempi kuin lantion alueen TT-kuvantaminen, koska alue on pieni ja siinä käytetään yleensä kartiokeila-TT-kuvantamista (KKTT)-> vielä normaaliakin matalampi annos. 
+
+![](images/tutkimuksiarasitus.png)
+  </div>
+</div>
+
+## Mikä näkyy kirkkaana T2-kuvassa {#Mika-kirkkaana} 
+
+- a. rasva
+- b. neste
+- c. luu
+- d. ilma
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      b
+      
+Rasva kirkkaan harmaata (ei siis yhtä kirkas kuin neste), luu (kortikaalinen) tummaam, ilma tummaa, lihas tummaa
+
+T1-kuvassa neste taas olisi tummaa. 
+
+![](images/t1t2.png)
+![](images/t1t22.png)
+![](images/t1t23.png)
+
+
+  </div>
+</div>
+
+## Olkapäässä luksaatiovamma 25v:lla n. 1v sitten, edelleen kipuilee, millä kuvataan {#Luksaatiovamma-taustalla}
+
+- a. UÄ
+- b. MRI
+- c. TT 
+- d. rtg
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      b
+      
+MRI, koska todnäk jokin pehmytkudosvaurio taustalla. Nuorella potilaalla olkapään sijoiltaanmenon jälkeinen pitkittynyt kipu viittaa mm. labrumin vaurioon (Bankart), kierinkalvosimen vammaan tai epästabiiliuteen. MRI kuvaa pehmytkudokset parhaiten. MR-artrografia (nivelensisäinen varjoaine) on vielä tarkempi nivelhuulen vaurioiden havaitsemisessa.
+
+  </div>
+</div>
+
+## Mitä vatsan matala-annos TT:lla kuvataan {#Mita-vatsan-ttlla}
+
+Ei vaihtoehtoja. Vähän kaikkea, pääasiassa varmaan haetaan vastauksena **virtsatiekiviä,** jos tarkoitetaan _matala-annos-TT:tä ilman varjoainetta._ **Varjoaineen kanssa mm. aikuisten akuutissa vatsassa pääasiallinen kuvantamiskeino.**
+
+## Nilkan luiden nimeäminen {#Nilkan-luut-nimea}
+
+Ei tarkemmin tärpissä. Tässä kuvat, joista voi harjoitella.
+
+![](images/nilkka1.png)
+![](images/nilkka2.png)
+
+## Polveen kiertovamma, vetolaatikko eteen ++, millä kuvataan ja miksi {#Polveen-kiertovamma}
+
+Ei vaihtoehtoja, koita vastata ilman apuja. 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+      
+RTG heti (aina herkästi vammoissa ja varsinkin veripolvitilanteissa -> voidaan arvioida kongurenssia ja murtumia) ja MRI (voidaan arvioida nivelsidevaurioita tarkasti; positiivinen vetilaatikko eteen viittaa erityisesti ACL-repeämään) seuraavaksi kiireellisesti (1-2vk). 
+
+Mikäli nivelet paikoillaan ja murtumia ei näy niin ei päivystyksellistä tarvetta jatkohoidolle tai kuvantamiselle.
+
+---
+
+Myös TT voisi auttaa ACL:n arvioimisessa, mutta ei tehdä tyypillisesti. Jos rtg-kuvassa niveleen ulottuva murtuma, tehdään TT. 
+  </div>
+</div>
