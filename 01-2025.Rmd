@@ -145,3 +145,354 @@ Mikäli nivelet paikoillaan ja murtumia ei näy niin ei päivystyksellistä tarv
 Myös TT voisi auttaa ACL:n arvioimisessa, mutta ei tehdä tyypillisesti. Jos rtg-kuvassa niveleen ulottuva murtuma, tehdään TT. 
   </div>
 </div>
+
+## Missä suurin efektiivinen annos {#Suurin-eff}
+
+- a. thx-rtg
+- b. molempien polvien rtg
+- c. ei muistettu 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+THX-rtg:ssa aika samanlainen kuin polvien rtg:ssa. Jos otetaan molempien polvien, niin siinä on isompi rasitus kuin yhdessä AP-thx-kuvassa.     
+
+![](images/tutkimuksiarasitus.png)
+  </div>
+</div>
+
+## Tuumorin halkaisija aluksi 18mm, kontrolloituna 27mm, kuinka paljon massa on kasvanut? 
+
+- a. 50%
+- b. 150%
+- c. 250%
+- d. 5-kertaistunut
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      c
+      
+Ajatellaan tuumori palloksi, jolloin massa kasvaa suoraan verrannollisesti halkaisijan kuutioon; tässä tapauksessa 27/18 potenssiin 3 -> 3.375 -> kasvu on prosentteina
+237.5% eli vastaus on 250%. 
+  </div>
+</div>
+
+## Mihin alkuaineeseen MRI perustuu: 
+
+- a. jodi
+- b. vety
+- c. gadolinium
+- d. happi
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      b
+      
+Tarkastellaan vety-ytimien eli protonien käyttäytymistä ulkoisessa magneettikentässä
+
+---
+
+MRI-kuvantamisessa tietyn vokselin nettomagnetoituma osoittaa aluksi ulkoisen magneettikentän suuntaan, mutta tätä muutetaan virittävän radiotaajuisen (radio frequency, RF) säteilypulssin avulla 
+
+Kun virittävä RF-pulssi päättyy, pyrkii systeemi palautumaan perustilaansa eli minimoimaan sisäisen energiansa. Ytimet alkavat siirtyä suuremmasta energiatilasta takaisin pienempään, ja systeemistä poistuva energia vapautuu sähkömagneettisena säteilynä, jonka taajuus on edelleen ytimien pyörimistaajuus. Tätä ilmiötä kutsutaan relaksaatioksi.
+
+![](images/stepsofmri.png)
+  </div>
+</div>
+
+## MRI edut Uä nähden {#MRIedut}
+
+- a. ei ionisoivaa säteilyä
+- b. parempi paikkatunnistuskyky
+- c. pystyy tunnistamaan pienempiä rakenteita
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      b
+
+MRI 3D-kuvantamisena mahdollistaa sen, että itse rakenteen lokaatio on paremmin tunnistettavissa -> paikkatunnistuskyky parempi. Kuva ei myöskään ole tutkijariippuvainen, ja siinä kuvautuvat myös kaasun taakse jäävät rakenteet, joihin ultraääni ei yllä.
+
+---
+
+a: Molemmat ovat ionisoimattomia tutkimuksia
+
+c: Ultraäänellä on parempi paikanerotuskyky (paikkaresoluutio) eli kykenee erottamaan kaksi vierekkäistä kohdetta pienemmällä etäisyydellä kuin MRI -> UÄ:llä pystytään tunnistamaan pienempiä rakenteita
+
+  </div>
+</div>
+
+## HRTT:ssä hunajakennokuvioitus, mistä kertoo? {#HRTT-hunaja}
+
+Ei vaihtoehtoja, koita vastata ilman apuja
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+Tyypillistä keuhkofibroosille (klassisesti idiopaattisen keuhkofibroosin myöhäinen muuto; ns. UIP-kuvio)
+
+Hunajakennokuvio (honeycombing) tarkoittaa pieniä, paksuseinäisiä, ilmaa sisältäviä kystia, jotka sijaitsevat tyypillisesti keuhkojen reuna-alueilla ja alaosissa (subpleuraalisesti ja basaalisesti). Se kertoo keuhkorakenteen palautumattomasta tuhoutumisesta ja arpikudoksen muodostumisesta.
+
+![](images/honey.png)
+  </div>
+</div>
+
+## Mikä läpäisee parhaiten röntgensäteilyä? {#Lapaisee-parhaiten}
+
+- a. ilma
+- b. rasva
+- c. vesi
+- d. luu
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      a
+
+Tämän takia ilma on mustaa natiiviröntgenissä.
+
+---
+
+Vaimennus kasvaa tiheyden ja atomiluvun mukana: ilma < rasva < vesi/pehmytkudos < luu.
+  </div>
+</div>
+
+## Vatsan TT ei saatavilla. Mitä vatsan röntgenkuvalla voidaan havaita? {#Vatsan-rtg}
+
+- a. perforaatio
+- b. okkluusio
+- c. ei kumpikaan
+- d. molemmat
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      d
+
+Vatsan natiiviröntgeniä ei käytetä enää kovinkaan paljoa, mutta sillä voidaan periaatteessa havaita sekä:
+
+<li>perforaatio: vapaa ilma vatsaontelossa (pallean alla pystykuvassa tai vasemmassa kylkiasennossa) että</li>
+<li>okkluusio (suolitukos): laajentuneet suolenlenkit ja nestevaakapinnat</li>
+
+---
+
+Myös vierasesineet ovat hyvin näkyvissä ja natiivikuvantaminen onkin tyypillisin kuvantaminen, kun halutaan selvittää esim. lapsella nielaistun vierasesineen lokaatio (onko vielä ruokatorvessa/vatsalaukussa/onko jo suolessa)
+  </div>
+</div>
+
+## Millä kuvantamismenetelmällä Alzheimerin taudin muutoksia hippokampuksessa voidaan havaita? {#Hippokampus}
+
+- a. TT ja MRI
+- b. TT mutta ei MRI
+- c. MRI mutta ei TT
+- d. PET
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      a
+
+Hippokampuksen surkastuminen (atrofia) ja ohimolohkon mediaalisten osien muutokset voidaan havaita sekä TT:llä että MRI:llä. TT:ssä käytetään ohuita koronaalisia rekonstruktioita. MRI on kuitenkin herkempi ja tarkempi, ja se on ensisijainen menetelmä hippokampuksen arvioinnissa, jos kuvataan elektiivisesti (usein vanhuksilla kuvataan TT akuutti-indikaatiossa esim. vamman yhteydessä ja siinä voidaan nähdä Alzheimerlöydöksiäkin samalla (pyydetään usein jälkilausunto)).
+
+---
+
+d: PET (FDG- tai amyloidi-PET) kuvaa aineenvaihduntaa ja amyloidikertymiä, ei ensisijaisesti hippokampuksen rakennetta.
+  </div>
+</div>
+
+## Miten tuore veri näkyy pään TT:ssä?
+
+- a. ei juuri näy
+- b. vaaleana
+- c. tummana
+- d. samanvärisenä kuin muukin aivokudos
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      b
+
+TT-arvot laskevat n. 1,5HU päivässä ja vanha veri on jo tummaa (tällä välillä on jossain kohtaa samanvärinen kuin muukin aivokudos)
+
+![](images/newvsoldblood.png)
+
+  </div>
+</div>
+
+## Mistä rasvapatjojen näkyminen kertoo? {#Rasvapatjat}
+
+- a. nestettä nivelraossa
+- b. nestettä rasvapatjassa
+- c. ei muistettu
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      a
+
+Jos näkyy rasvapatjoja trauman yhteydessä -> ajattele intra-artikulaarista murtumaa (voi kuitenkin johtua muustakin nivelen hydropsia aiheuttavasta tilasta). 
+
+---
+
+Rasvapatja on nivelkapselin ja luun välissä olevaa rasvakudosta, joka täyttää nivelen ympärillä olevia kuoppia; esim. kyynärnivelessä olekranon-, koronoidi- ja radiaalikuoppa. Röntgenkuvassa rasva näkyy tummempana kuin ympäröivä pehmytkudos.
+
+Normaalisti esim. kyynärnivelen lateraali-rtg:ssä on anteriorinen ja posteriorinen rasvapatja. Anteriorinen voi olla nähtävissä, posteriorinen ei normaalisti koskaan.
+
+Kun nivelessä on nestettä, kapseli pullistuu ja nostaa rasvapatjat näkyviin: etummainen patja nousee purjemaiseksi (sail sign) ja takimmainen tulee näkyviin. Takimmaisen rasvapatjan näkyminen on erityisen merkittävä löydös.
+
+![](images/fatpads.png)
+  </div>
+</div>
+
+## Kilpirauhasessa niukkakaikuinen leesio, mikä on paras tapa paikantaa punktion yhteydessä? {#Kilpirauhanen-niukkakaikuinen-leesio}
+
+- a. uä
+- b. palpointi
+- c. tt
+- d. mri
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      a
+
+Kilpirauhasen biopsiat tehdään UÄ-ohjauksella tehdään kilpirauhasen biopsiat; UÄ on muutenkin kilpirauhasen paras kuvantamismenetelmä. 
+  </div>
+</div>
+
+## Minkä läpi UÄ ei voi kuvantaa? {#Minka-lapi-ei-ua}
+
+- a. kaasu
+- b. rasva
+- c. vesi
+- d. joku
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      a
+
+UÄ ei kulje hyvin ilmassa ja siroaa nopeasti
+  </div>
+</div>
+
+## Miten sappirakon kuvaus parhaiten onnistuu?
+
+- a. paasto 1h ennen tmp
+- b. runsaan veden juominen ennen tmp
+- c. varjoaineella iv
+- d. kaasua suolistossa
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      a
+
+Sappirakon kuvantaminen tehdään ensisijaisesti UÄ:llä ja parhaiten se näkyy potilaan paastottua hetken (kaasua tai massaa ei ole niin paljoa suolessa häiritsemässä näkyvyyttä). Paastotessa myös sappirakko täyttyy sapella ja laajenee, jolloin sen seinämä, sisältö ja sappikivet erottuvat selvästi.
+
+Usein suositellaan jopa hieman pidempää paastoa kuin 1h, mutta vaihtoehto a on silti paras näistä. 
+
+---
+
+b: Veden juominen ja täysi virtsarakko ei auta sappirakon kuvantamista 
+
+c: Suonensisäinen varjoaine ei kuulu sappirakon UÄ-tutkimukseen
+
+d: Suoliston kaasu heikentää ultraäänen kulkua ja huonontaa kuvanlaatua
+
+  </div>
+</div>
+
+## 40v potilas vuosi sitten kaatunut ranteen päälle, rtg:ssä ei murtumaa. Nyt kuormituksessa alkanut tuntua ikävää naksahtelua, miten kuvannat? {#40v-naksahtelua}
+
+Ei vaihtoehtoja, koita vastata ilman apuja.
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      a
+
+Vuoden takainen kaatuminen ja nyt kuormituksessa ilmenevä naksahtelu viittaavat ranteen sidekudosvaurioon, jota natiiviröntgen ei näytä. Tällaisessa tilanteessa MRI on paras, koska se kuvaa pehmytkudokset, siteet ja rustot parhaiten. 
+
+  </div>
+</div>
+
+## Potilaalla viikon ripulia, kuvannatko ja jos niin miten?
+
+Ei vaihtoehtoja, koita vastata ilman apuja. 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+Ei, jos vain tyypillistä ripulia. Viikon kestänyt ripuli on useimmiten infektio (virus tai bakteeri), jonka diagnoosi perustuu esitietoihin, kliiniseen tutkimukseen ja tarvittaessa ulostenäytteisiin (bakteeriviljely, Clostridioides difficile-toksiinit, mahdollisesti loiset). Kuvantaminen ei muuta hoitoa.
+
+Ripulissa kolonoskopia on muutenkin ensisijainen kuvantamismenetelmä, mutta yleensä indikoitu vasta, kun pitkittynyt ripuli (kesto>4vk). 
+
+Akuutimmassa tilanteessa, jos on hälytysoireita akuutista vatsasta/epäilyä komplikaatioista, niin silloin vatsan varjoaine-TT olisi yleensä ensisijainen. 
+  </div>
+</div>

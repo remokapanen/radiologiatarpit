@@ -17,3 +17,5 @@ github-repo: rstudio/bookdown-demo
 Kyseessä exam-tentti, joten kerätyt kysymykset ovat usein puutteellisia eikä varsinkaan tenteissä näytettyjä kuvia ole saatu kerättyä. Kyseessä myös on monivalintatentti, mutta usein vaihtoehtoja ei ole wikiin kirjoitettu. Sopivia vastauksia on koiteltu päätellä, vaikka vaihtoehtoja ei olisikaan tarjottu. Jos vaihtoehdot on wikissä, niin ne on myös tässä. 
 
 Muokatut tärpit löytyy [täältä](https://c7-opas.netlify.app/images/RAD_T%C3%A4rpit_Vastattuna.pdf) niiden alkuperäisessä pdf-muodossa, jonka tein kurssin aikana 2025. **Tällä hetkellä hiljalleen kuitenkin konvertoin sitä nykyään käyttämääni Click-to-reveal-tyyppiseen muotoon,** jota suosittelen käyttämään pdf:n sijaan.
+
+Tällä hetkellä pdf:stä on adaptoitu kysymykset 1-111 ja 128-152.
