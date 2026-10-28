@@ -18,4 +18,4 @@ Kyseessä exam-tentti, joten kerätyt kysymykset ovat usein puutteellisia eikä 
 
 Muokatut tärpit löytyy [täältä](https://c7-opas.netlify.app/images/RAD_T%C3%A4rpit_Vastattuna.pdf) niiden alkuperäisessä pdf-muodossa, jonka tein kurssin aikana 2025. **Tällä hetkellä hiljalleen kuitenkin konvertoin sitä nykyään käyttämääni Click-to-reveal-tyyppiseen muotoon,** jota suosittelen käyttämään pdf:n sijaan.
 
-Tällä hetkellä pdf:stä on adaptoitu kysymykset 1-111 ja 128-152.
+Tällä hetkellä pdf:stä on adaptoitu kysymykset 1-111 ja 128-188 eli siis vuodet 2025 ja 2024, jotka käsittävät lähes kaikki tenteissä pyörineet kysymykset. 

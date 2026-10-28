@@ -1,6 +1,8 @@
 # 2025
 
-Lisää tulossa (samoin 2024 edeltävät vuodet)
+## Potilaalla kuumetta ja yskää. Thx-kuva ja kysymyksenä onko pneumoniaa
+
+Ei esimerkkikuvaa, kannattaa opetella thx-kuvan tulkinta pneumonioiden suhteen
 
 ## Mihin kohtaan niveltä nivelreuma vaikuttaa {#Mihin-kohtaan-nivelta-nivelreuma}
 
@@ -116,9 +118,9 @@ MRI, koska todnäk jokin pehmytkudosvaurio taustalla. Nuorella potilaalla olkap�
 
 Ei vaihtoehtoja. Vähän kaikkea, pääasiassa varmaan haetaan vastauksena **virtsatiekiviä,** jos tarkoitetaan _matala-annos-TT:tä ilman varjoainetta._ **Varjoaineen kanssa mm. aikuisten akuutissa vatsassa pääasiallinen kuvantamiskeino.**
 
-## Nilkan luiden nimeäminen {#Nilkan-luut-nimea}
+## Nilkan/jalkapöydän luiden nimeäminen {#Nilkan-luut-nimea}
 
-Ei tarkemmin tärpissä. Tässä kuvat, joista voi harjoitella.
+Ei tarkemmin tärpissä. Tässä kuvat, joista voi harjoitella. Ainakin yhden kerätyn tärpin mukaan pyydetty tunnistamaan mediaalinen cuneiforme AP-kuvasta.
 
 ![](images/nilkka1.png)
 ![](images/nilkka2.png)
@@ -472,7 +474,7 @@ Ei vaihtoehtoja, koita vastata ilman apuja.
   <div class="solution-content">
       a
 
-Vuoden takainen kaatuminen ja nyt kuormituksessa ilmenevä naksahtelu viittaavat ranteen sidekudosvaurioon, jota natiiviröntgen ei näytä. Tällaisessa tilanteessa MRI on paras, koska se kuvaa pehmytkudokset, siteet ja rustot parhaiten. 
+Vuoden takainen kaatuminen ja nyt kuormituksessa ilmenevä naksahtelu viittaavat ranteen sidekudosvaurioon, jota natiiviröntgen ei näytä. Tällaisessa tilanteessa MRI on paras, koska se kuvaa pehmytkudokset, siteet ja rustot parhaiten. Ei myöskään ole päivystyksellinen tilanne -> MRI hyvä
 
   </div>
 </div>
@@ -494,5 +496,555 @@ Ei, jos vain tyypillistä ripulia. Viikon kestänyt ripuli on useimmiten infekti
 Ripulissa kolonoskopia on muutenkin ensisijainen kuvantamismenetelmä, mutta yleensä indikoitu vasta, kun pitkittynyt ripuli (kesto>4vk). 
 
 Akuutimmassa tilanteessa, jos on hälytysoireita akuutista vatsasta/epäilyä komplikaatioista, niin silloin vatsan varjoaine-TT olisi yleensä ensisijainen. 
+  </div>
+</div>
+
+## Iskiastyyppisen kivun kuvantaminen
+
+Ei vaihtoehtoja. Mikä on ensisijainen kuvantamiskeino? Milloin kuvataan? 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+MRI (lannerangan) ensisijainen. Kuvannetaan tyypillisesti vasta 6-8vk jälkeen, jos oireet eivät lievity ja harkitaan operatiivista hoitoa.
+
+Tietysti, jos jotain selkäkivun punaisen lipun oireita (esim. cauda-oireet), niin päivystyksellinen kuvantaminen.  
+  </div>
+</div>
+
+## Onko polvessa selvät artroosimuutokset vai ei {#Selvat-vai-ei}
+
+Ei esimerkkikuvaa tärpeissä. Käy läpi tyypilliset rtg-kuvassa mahdollisesti nähtävät artroosiin viittavat löydökset
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+Muutoksia ovat LOSS (Loss of joint space, osteophytes, subchondral sclerosis, subchondral cysts). Nivelrikkomuutokset luokitellaan vaikeusasteisin Kellgren-Lawrencen mukaan.
+
+![](images/loss.png)
+![](images/kellgren.png)
+![](images/kg1.png)
+![](images/kg2.png)
+![](images/kg3.png)
+
+  </div>
+</div>
+
+## Miliäärinen tuberkuloosi onko? {#Miliaarinen-tuberkuloosi}
+
+Ei esimerkkikuvaa. Millainen olisi tyypillinen löydös thx-rtg:ssa? 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+Tyypillistä on hienojakoinen laajalle nevinnyt nodulaarinen tiiviys; yksittäiset leesiot ovat tyypillisesti pieniä (1-3mm; ylälohkoissa voi olla jopa 6mm). 
+
+Erotusddx: sarkoidoosin keuhkomuutokset paikantuvat usein ylälohkoihin ja hilumien ympärille ja yksittäiset leesiot ovat hieman kookkaampia kuin miliaarisessa tuberkuloosissa
+
+
+---
+
+Primaarinen tuberkuloosi voi edetä miliaariseksi tuberkuloosiksi, mikä tarkoittaa TB:n systeemistä leviämistä. Nimi tulee tyypillisestä keuhkokuvasta: diffuuseja pieniä hirssisiemenmäisiä (millet seeds) pisteitä
+
+Johtaa granuloomien muodostumiseen ympäri kehoa (mm. perna, maksa, lisämunuaiset, aivokalvot -> meningiitti). 
+
+![](images/miliary.png)
+![](images/miliaarinen-tb2.png)
+![](images/miliaarinen-tb1.png)
+
+  </div>
+</div>
+
+## Pikseli ja vokseli, erot/yhtäläisyydet {#Vokselitpikselit}
+
+Ei vaihtoehtoja tärpeissä. Koita keksiä aivan perusteellisin ero näiden välillä. 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Ero: Pikseli 2D-kuvassa, Vokseli 3D-kuvassa (esim. TT, MRI)
+
+Molemmat ovat kuvan pienimpiä yksiköitä ja kuvaavat sijaintia ja arvoa (sävy, tiheys, signaali) siinä lokaatiossa. 
+
+  </div>
+</div>
+
+## Röntgensäteilyn tuotto {#rtg-tuotto}
+
+Ei tarkempaa kysymyksenasettelua tärpeissä. Koita miettiä, miten röntgensäteilyä tuotetaan. 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Syntyy, kun röntgenputkessa nopeutetaan elektroneja ja ne törmäävät putken anodissa olevaan kohteeseen; rtg-generaattorilla tuotetaan suurjännite, jolla elektronit kiihdytetään röntgenputkessa
+
+Elektronien törmääminen anodiin tuottaa rtg-säteilyä kahdella tavalla: jarrutussäteily (jatkumolla) ja ominaissäteily (elektronikuorille karakteristinen säteilyenergia).
+
+![](images/rtgsyntyn.png)
+  </div>
+</div>
+
+## Testin sensitiivisyys
+
+Ei tarkempaa kysymyksenasettelua. Mitä tarkoitetaan testin sensitiivisyydellä? 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Tarkoittaa sairaan potilaan todennäköisyyttä saada positiivinen testitulos -> korkea herkkyys on hyvä, jos halutaan poissulkea tauteja (nappaa hyvin positiiviset, mutta kääntöpuolella voi antaa helposti vääriä positiivisia, jos tarkkuus ei ole korkea. 
+
+![](images/herkkyys.png)
+
+  </div>
+</div>
+
+## Maksan yleisimmät fokaaliset muutokset {#Maksan-yleisimmat-fokaalimuutokset}
+
+Ei tarkempaa kysymyksenasettelua. Mitkä ovat top 3 yleisintä fokaalimuutosta maksassa
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Kysta (nro 1), hemangiooma (nro 2), fokaalinen nodulaarinen hyperplasia (FNH) (nro 3)
+
+---
+
+Maksan yksinkertaiset kystat ovat yleisiä. Niitä löytyy ultraäänitutkimuksissa noin 6 %:lta ja tietokonekerroskuvauksissa (TT) jopa 15 %:lta. Eivät vaadi hoitoa tai seurantaa (Toimenpideindikaatio on lähinnä suurten (> 10 cm) kystien aiheuttamat paineoireet) 
+
+Hemangiooma on synnynnäinen laskimokehityspoikkeama, joka on yleensä oireeton. Ei vaadi hoitoa tai seurantaa. Aikuisväestössä hemagioomia esiintyy 0,7–7,3 %:lla
+
+Fokaalinen nodulaarinen hyperplasia (FNH) on maksasolujen paikallinen kyhmyinen liikakasvu, jonka syynä katsotaan olevan vaskulaarinen kehityspoikkeama. Maksasolut kasvavat poikkeavasti tämän kehityspoikkeaman ympärille ja muodostavat pesäkkeitä, joista 60 %:ssa on keskusarpi. Ei vaadi hoitoa tai seurantaa. FNH-pesäkkeitä esiintyy noin 0,9 %:lla.
+
+
+---
+
+**Maksan hyvänlaatuiset muutokset ovat selvästi yleisempiä kuin pahanlaatuiset** (Vaikka potilaalla olisi taustalla syöpä, on yli 90 %:n todennäköisyys, että maksan paikallismuutos on hyvänlaatuinen). Yli 90 % maksan maligneista kasvaimista on metastaaseja; yleisin primaarinen syöpä on hepatosellulaarinen karsinooma (HCC). Lasten primaarisista maksasyövistä yleisin on hepatoblastooma. 
+
+Hepatosellulaarinen adenooma on melko harvinainen maksakasvain-
+  </div>
+</div>
+
+## Miltä kysta näyttää maksan uä:ssä? Onko kaiuton ja tekeekö kaikukatveen vai kaikuvahvistuman? {#Milta-kysta-nauttaa}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Kaiuton (nestetäytteinen; tosin kystan seinämä voi olla muuta maksaa tiivimpi) ja tekee kaikuvahvistuman
+
+![](images/kysta.png)
+  </div>
+</div>
+
+## Näkyykö akuutti aivoinfarkti TT:ssä? {#Nakyyko-akuutti-aivoinfarkti-ttssa}
+
+Ei vaihtoehtoja, koita vastata ilman apuja. 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Aivan akuutti ei -> akuutissa aivoinfarktiepäilyssä TT voi olla ja onkin usein normaali. TT kuitenkin otetaan, koska **tulee poissulkea verenvuoto** aivoverenkiertohäiriön taustalla, jotta voidaan antaa liuotushoito.
+
+TT näyttää infarktin ensimmäiset merkit 1-2 tunnin kuluttua oireiden alusta; MRI jopa 3-30 minuutissa (MRI:tä ei kuitenkaan yleensä tehdä ennen TT-kuvantamista). 
+
+  </div>
+</div>
+
+## Onko UÄ vai MRI parempi pneumothoraxin diagnoosiin? {#UA-vs-MRI-pneumothorax}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+UÄ on parempi; se on nopea, herkkä ja luotettava. MRI ei ole hyvä kuvantamaan ilmatäytteisiä kudoksia. 
+
+---
+
+UÄ:tä käytetään esimerkiksi traumapotilaan eFAST-tutkimuksessa ja samalla voidaan verikertymien lisäksi etsiä pneumothoraxia. Tyypillisiä löydöksiä ovat pleuran liukumisen (sliding) puuttuminen (näkyy barcode-signina seashoren sijaan M-moodissa) ja B-viivojen puuttuminen. 
+
+![](images/seashore.png)
+  </div>
+</div>
+
+## Minkä tyyppinen weber murtuma, A vai B {#Mika-weber}
+
+Ei esimerkkikuvaa tärpissä. Mieti, millainen on Weber A, B ja C.
+
+Oli myös toinen tärppi, jossa oli kaksi eri nilkka-rtg:tä ja kysyttiin onko molemmilla weber a, molemmilla weber b yms (vastauksena oli toisella weber a, toisella weber b).
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Weber A = fibulamurtuma niveltason eli syndesmoositason alapuolella
+
+B-murtumassa syndesmoositasolla
+
+C- murtumassa yläpuolella
+
+
+![](images/weberit.png)
+  </div>
+</div>
+
+## Mitä meinaa tt:ssä monileiketekniikka {#TT-monileike}
+
+Ei vaihtoehtoja tärpissä. Mieti ilman apuja. 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Kuvattavasta kohteesta saadaan yhtäaikaisesti useampia leikkeitä, koska laite sisältää monta vierekkäistä ilmaisinta. Kuvaustekniikka on nopea ja sillä saadaan otettua entistäkin ohuempia leikkeitä. Kuvaa voidaan myös käsitellä monipuolisesti jälkikäteen. Haittapuolina on potilaan kasvanut säteilyannos sekä tulkittavien kuvien valtava määrä
+
+---
+
+Taas spiraalikuvaus on useimmissa laitteissa käytössä ja siinä tutkimuspöytä liikkuu automaattisesti tasaista nopeutta kuvausaukon läpi röntgenlähteen ja detektorien pyöriessä sen ympärillä. Tuloksena saadaan yhtenäinen spiraalimainen projektiodata, josta voidaan valita halutut leikkeet. 
+
+![](images/multislice.png)
+![](images/spiralscan.png)
+
+  </div>
+</div>
+
+## Voiko UÄ:llä poissulkea appendisiittiä? {#UA-poissulkea}
+
+- a. Kyllä
+- b. Ei
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Ei
+
+TT tarvitaan poissulkemiseen
+
+---
+
+UÄ on kuitenkin usein **ensisijainen kuvantaminen lapsilla ja raskaana olevilla** appendisiitin suhteen; tarvittaessa MRI (se on TT:n veroinen, mutta hidas ja pääasiassa käytössä vain tarvittaessa lapsilla ja raskaana olevilla). 
+  </div>
+</div>
+
+## Miltä askites näyttää kuvissa {#Milta-askites}
+
+Ei vaihtoehtoja tärpissä. Millaista UÄ:ssä, millaista TT:ssä? 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+
+Kaiuttomalta eli mustalta UÄ:ssä (on nestettä ja neste on kaiutonta UÄ:ssä), TT:ssä tyypillisen veden sävyistä tai hieman tiheämpää (n. 0-20 HU). Neste on tummempaa kuin parenkyymielimet (maksa, perna).
+
+![](images/asc1.png)
+![](images/asc2.png)
+
+  </div>
+</div>
+
+## Mitä varjoainetta käytetään ensisijaisesti MRI-kuvantamisessa? {#Mri-varjoaine}
+
+Ei vaihtoehtoja, koita ilman apuja. 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+Ensisijaisesti gadolinium (TT-kuvantamisessa jodi ensisijainen)
+
+  </div>
+</div>
+
+## Mikä totta röntgenkuvantamisesta? {#totta-rtgsta}
+
+- a. Rasva vaimentaa enemmän kuin neste
+- b. Ilma vaimentaa enemmän kuin neste
+- c. Luu vaimentaa enemmän kuin neste
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      c
+
+Luu on tiheää ja vaimentaa röntgensäteilyä selvästi enemmän kuin neste (vesi) -> näkyy rtg:ssa kirkkaana 
+
+---
+
+a: Rasva vaimentaa vähemmän kuin neste (rasvan tiheys on pienempi)
+
+b: Ilma vaimentaa vähiten kaikista, joten se näkyy mustana
+  </div>
+</div>
+
+## Mikä on totta artroosista? {#Totta-artr}
+
+Ei vaihtoehtoja tärpissä, mutta vastaus ilmeisesti: "Vaikka nivelrikolle on tyypillistä ruston vaurioituminen, ei rustoa voi nähdä natiiviröntgenissä."
+
+## Polvi kipeä ja lonkan liikerajoitus. Mitkä kuvantamiset? {#Polvi-kipea-ja-lonkan-liikerajoitus}
+
+- a. Lonkan MRI ja polven rtg 
+- b. Lonkan rtg, polven rtg 
+- c. Muita samanlaisia vaihtoehtoja (ei muistettu) 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      b
+
+Lonkan liikerajoitus ja polvikipu on hyvin yleistä samaan aikaan ja kipu voi hyvinkin olla lonkasta heijastuvaa. Syynä voi olla lapsella tai nuorella reisiluun pään epifyysin liukuma (SCFE) tai Perthesin tauti, aikuisella lonkan nivelrikko. Tietysti voi olla ihan molempienkin nivelien erillinen ongelma.
+
+Ensivaiheen kuvantaminen on natiiviröntgen kummastakin nivelestä. MRI harkitaan vasta, jos röntgen ei selitä oireita (esim. piilomurtuma, nekroosi tai pehmytkudosvaurio)
+  </div>
+</div>
+
+## Toteat potilaalla kylkiluumurtuman statuslöydöksenä. Miksi otat thx-rtg:nin? {#Miksi-rtg-kylkiluumurtumassa}
+
+- a. Haluat vakuuttaa potilaan taidoistasi 
+- b. Haluat varmistaa dg ennen hoidon aloittamista 
+- c. Haluat poissulkea pneumothx ja hemothx
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      c
+
+Kylkiluumurtuman diagnoosi tehdään kliinisesti, ja murtuma näkyy röntgenkuvassa usein huonosti, eikä hoito (kipulääkitys, hengitysharjoitukset) muutu murtuman varmistamisesta. Kuvantamisen tärkein tarkoitus on löytää komplikaatiot: ilmarinta tai veririnta (tai keuhkokontuusio). 
+  </div>
+</div>
+
+## Mikä on distaalisen radiusmurtuman ensimmäisen rtg-kontrollin tarkoitus? {#Dist-rad-ktrl-tarkoitus}
+
+- a. Luutumisen varmistaminen 
+- b. Varmistaminen ettei asento ole pettänyt
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      b
+
+Distaalisen radiuksen tyyppimurtuman rtg-kontrolloimisaikataulun ohjeet eroavat lähteiden välillä, mutta Käypä Hoidossa ohjeistus on 1vk+2vk+5vk suositus. Monissa ohjeissa vain 1-2krt 10-14vrk sisällä ja vain harkinnan mukaan kipsin poiston yhteydessä 5vk kohdalla
+
+Ensimmäisen kuvantamisen yhteydessä ei vielä ole luutumista ehtinyt tapahtumaan; tarkoitus on varmistaa, että asento ei ole pettänyt hyväksyttävän asennon ulkopuolelle. Kirurgista hoitoa harkitaan, jos murtuman asento ei ole hyväksyttävä reduktion jälkeen tai se huononee 1–2 viikon seurantakuvissa. Näissä tapauksissa konsultoidaan käsikirurgia tai ortopedia. Uudelleen tehtyä sulkeista reduktiota 1–2 viikon kohdalla ei suositella
+
+Jos onnistuneen hoidon kriteeriksi on annettu hyväksyttävä asento seurantakuvauksissa, asennon suhteen pätevät samat radiologiset kriteerit kuin primaarivaiheessa. 
+
+*Ikääntyneillä värttinäluun alaosan tyyppimurtumien rutiinimaisesta seurannasta natiiviröntgenkuvin ei kuitenkaan liene hyötyä, mikäli jaetun päätöksenteon periaatteita noudattaen päädytään konservatiiviseen hoitoon
+  </div>
+</div>
+
+## Kahden eri potilaan käden rtg-kuvat. {#Kaksi-eri-rtg}
+
+Ei esimerkkikuvaa, mutta tässä vaihtoehdot ja vastaus oli kerättyjen tärppien mukaan ilmeisesti "molemmilla oli murtuma"; toisella tosin oli selkeämpi, toisella vähemmän selkeä
+
+- a. Molemmilla sormimurtuma
+- b. Molemmilla MCP-1:n luksaatio
+- c. Vain toisella murtuma
+- d. Ei kummallakaan murtumaa
+
+## Potilaalle ollaan tekemässä MRI-enterografia. Mikä väittämä on totta? {#Entero-tot}
+
+- a. Potilas juo varjoaineen
+- b. Potilaalle annetaan varjoaine nml kautta
+- c. jotain muita vaihtoehtoja 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      a
+
+Potilaalle juotetaan (jos kyseessä olisi enteroklyysi, niin varjoaine annettaisiin nasojejunaaliletkun kautta) **suolivarjoainetta** (ei ole gadoliniumia kuten i.v-annostelussa; käytetään yleensä niin sanottuja **bifaasisia varjoaineita,** jotka näkyvät T1- gradienttikaikusekvensseissä niukkasignaalisina ja T2-painotteisissa sekvensseissä runsassignaalisina)
+
+---
+
+Voidaan antaa myös samalla i.v.-varjoainetta, jotta suolen seinämä ja sen muutokset näkyisivät paremmin
+
+Tutkimuksen aikana suoli lamataan spasmolyytilla liikkeen aiheuttamien artefaktien välttämiseksi
+
+  </div>
+</div>
+
+## Haiman kuvantamisesta väitteitä, mikä on totta? {#haima-totta}
+
+- a. Ultraäänellä on vaikea nähdä pseudokystia
+- b. Paras kuvantaminen haiman kudoksen vitaliteetin arvioimisessa on varjoaine-TT
+- c. Nekrotisoitunut haimakudos vahvistuu arteriavaiheessa 
+- d. joku 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      b
+
+Varjoaine-TT erottaa elinkykyisen, varjoainetta ottavan haimakudoksen kuolleesta (nekroottisesta) kudoksesta, joka ei vahvistu. Siksi sitä käytetään akuutin haimatulehduksen nekroosin ja komplikaatioiden arviointiin. 
+
+---
+
+Akuutti haimatulehdus kylläkin saadaan usein diagnosoitua ilman kuvantamistakin. Akuutin haimatulehduksen toteamiseksi vaaditaan, että vähintään kaksi seuraavista kolmesta diagnostisesta kriteeristä täyttyy: 1) tyypillinen kliininen kuva, 2) seerumin amylaasi- tai lipaasiarvo yli kolminkertainen normaaliin ylärajaan verrattuna, ja 3) akuuttiin pankreatiittiin sopivat kuvantamislöydökset.
+
+Ensisijainen kuvantamismenetelmä, jos pankreatiitti on jo labrojen ja taudinkuvan mukaan selvä on vatsan UÄ -> etsitään sappikiviä; tarvittaessa MRCP kun halutaan varmistaa sappitiekivien olemassaolo 
+
+---
+
+a: Pseudokysta on nestepitoinen ja näkyy UÄ:ssa hyvin kaiuttomana rakenteena. UÄ:n ongelma on haiman itsensä huono näkyvyys suolikaasun vuoksi
+
+c: Nekrotisoitunut haimakudos ei vahvistu varjoaineella lainkaan (se jää tummaksi), eikä sen vahvistuminen arteriavaiheessa ole mahdollista
+  </div>
+</div>
+
+## Nilkasta kuva ja mitattu kuvaan jokin etäisyys (6mm). Kysymyksenä: Minkä rakenteen vaurioon mitta liittyy? {#Mihin-mitta-liittyy}
+
+Ei esimerkkikuvaa tärpissä, poimittu netistä tämä sopiva kuva.
+
+![](images/clear.png)
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+Kuvassa tibiofibular clear space mitattuna -> rakenteena on siis syndesmoosi, koska mitta leviää syndesmoosivammassa. 
+
+Normaali syndesmoosirako on 5mm tai vähemmän mortise-projektiosta mitattuna. Katsotaan n. 1cm nilkkaniveltasosta ylöspäin. 
+
+![](images/norm.png)
+  </div>
+</div>
+
+## Thx-kuva potilaasta. Kysymyksenä: Mikä syy on sille, että potilaan vasemmat ja oikeat alaosat ovat eri tiheyksisiä? {#Miksi-eri-tiheys}
+
+Ei esimerkkikuvaa tärpissä, tässä sopiva kuva poimittuna. 
+
+![](images/rinta.png)
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Potilaan vasen rinta poistettu   
+  </div>
+</div>
+
+## TT-kuvantamisen etu MRI:hin verrattuna 
+
+- a. Voi ottaa useita varjoainetehosteisia kuvantamisjaksoja
+- b. Parempi paikanerotuskyky
+- c. Ei säteilyä
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      b
+
+TT:llä on MRI:tä parempi spatiaalinen resoluutio (hyvin ohuet leikkeet, alle 1 mm, ja isotrooppiset kuvapisteet), joten se kuvaa pienet rakenteet, luut, kalkit ja keuhkot tarkasti. MRI:n vahvuus on pehmytkudoskontrasti.
+
+---
+
+a: Useat varjoainetehosteiset vaiheet (valtimo-, laskimo- ja myöhäisvaihe) onnistuvat sekä TT:llä että MRI:llä, joten tämä ei ole TT:n erityisetu.
+
+c: TT käyttää ionisoivaa säteilyä, kun taas MRI ei
+
   </div>
 </div>

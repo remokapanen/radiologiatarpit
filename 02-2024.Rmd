@@ -638,7 +638,7 @@ Käytännön elämässä virusdiagnostiikkaa tehdään suhteellisen harvoin. Sik
   </div>
 </div>
 
-## Millä suoli täytetään MR-enterografiassa?
+## Millä suoli täytetään MR-enterografiassa? {#Milla-enterografiassa}
 
 <div class="">
   <button class="solution-button"
@@ -800,7 +800,9 @@ Ei tietystikään tentissä käytettyä kuvaa saatavilla. Miten tässä (vasemma
   <div class="solution-content">
       Pahentunut
 
-Oikeanpuoleisessa kuvassa keuhkoverekkyys koholla ja sydän suurentunut verrattuna aikaisempaan kuvaan    
+Oikeanpuoleisessa kuvassa keuhkoverekkyys koholla ja sydän suurentunut verrattuna aikaisempaan kuvaan. 
+
+On myös eräs tärppi kerätty, jossa taas vajaatoiminta on parantunut 2vk kontrollikuvassa (kuvissa sydän pienentynyt ja keuhkoverekkyys laskenut).
   </div>
 </div>
 
@@ -821,7 +823,11 @@ Jälkikäteen ei myöskään voi olla varma, **tutkiko mittaaja kaikki asiat tar
   </div>
 </div>
 
-## Mitä tarkoittaa ”sydän on kompensaatiossa”? {#Sydan-kompensaatiossa}
+## Thx-rtg lausunto, jossa lukee “sydän kompensaatiossa”. Mitä kompensaatio tarkoittaa? {#Sydan-kompensaatiossa}
+
+- a. Sydän normaalia suurempi 
+- b. yms muita sydämen vajaatoiminnan löydöksiä
+- c. keuhkoverekkyys normaali
 
 <div class="">
   <button class="solution-button"
@@ -830,8 +836,9 @@ Jälkikäteen ei myöskään voi olla varma, **tutkiko mittaaja kaikki asiat tar
     Vastaus
   </button>
   <div class="solution-content">
-
-Simppelisti sanottuna sitä, että thx-kuvassa ei ole havaittavissa sydämen vajaatoiminnan aiheuttaman kongestion tai nestekertymien piirteitä eli keuhkoverekkyys on normaali ja pleuranestettä ei ole todettavissa. 
+      c
+      
+Simppelisti sanottuna kompensaatio tarkoittaa sitä, että thx-kuvassa ei ole havaittavissa sydämen vajaatoiminnan aiheuttaman kongestion tai nestekertymien piirteitä eli keuhkoverekkyys on normaali ja pleuranestettä ei ole todettavissa. 
 
   </div>
 </div>
@@ -1364,6 +1371,7 @@ Jos mahdollinen kaventuminen ja selvästi osteofyyttejä (vaikka olisi pieniä) 
 
 ![](images/kellgren.png)
 ![](images/kg1.png)
+![](images/loss.png)
 ![](images/kg2.png)
 ![](images/kg3.png)
 
@@ -1920,6 +1928,7 @@ Glenoideum tarkalleen ottaen. Bankartin vaurio tarkoittaa olkanivelen etualaosan
 
 a: Humeruksessa usein Bankartiin liittyvä vamma on Hill-Sachsin vaurio, eli olkaluun pään takaosan painuma, joka syntyy, kun humeruksen posterolateraalinen pää osuu nivelkuopan reunaan anteriorisessa sijoiltaanmenossa. Kun Hill-Sachs vaurio havaitaan, tulisi huolellisesti arvioida, onko anteriorisessa glenoidissa Bankartin leesiota
 
+![](images/bonybankart.png)
 ![](images/bankart1.png)
 ![](images/bankart2.png)
 ![](images/hs.png)
@@ -1981,7 +1990,7 @@ N. 200ml vaaditaan yleensä pleurasopin pyöristymiseen (n. 75ml lateraalikuvass
   </div>
 </div>
 
-## Kuvaus, että potilaalla retrosternaalinen tila laajentunut, palleat litistyneet, pieni sydän. Onko {#Retrolaajentuma}
+## Tupakoitsijapotilas. Kuvaus, että potilaalla retrosternaalinen tila laajentunut, palleat litistyneet, pieni sydän. Onko {#Retrolaajentuma}
 
 - a. sarkoidoosi 
 - b. emfyseema 
@@ -2176,7 +2185,7 @@ Tärpissä ei vaihtoehtoja, mutta mieti mitä löydöksiä voisi olla mainittu o
   <div class="solution-content">
       
 
-Nivelraon kaventuminen, reunaosteofyytit, skleroosi, subkondraaliset kystat -> eli siis tyypilliset artroosin piirteet 
+Nivelraon kaventuminen, reunaosteofyytit, skleroosi, subkondraaliset kystat -> eli siis tyypilliset artroosin piirteet (LOSS = Loss of joint space, osteophytes, subchondral sclerosis, subchondral cysts)
 
 ![](images/kellgren.png)
 ![](images/kg3.png)
