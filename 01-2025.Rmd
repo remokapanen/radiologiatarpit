@@ -81,7 +81,7 @@ TT:n säderasitus on huomattavasti suurempi kuin natiiviröntgenin. Sinus-TT:n (
   <div class="solution-content">
       b
       
-Rasva kirkkaan harmaata (ei siis yhtä kirkas kuin neste), luu (kortikaalinen) tummaam, ilma tummaa, lihas tummaa
+Rasva kirkkaan harmaata (ei siis yhtä kirkas kuin neste), luu (kortikaalinen) tummaa, ilma tummaa, lihas tummaa
 
 T1-kuvassa neste taas olisi tummaa. 
 
@@ -109,7 +109,7 @@ T1-kuvassa neste taas olisi tummaa.
   <div class="solution-content">
       b
       
-MRI, koska todnäk jokin pehmytkudosvaurio taustalla. Nuorella potilaalla olkapään sijoiltaanmenon jälkeinen pitkittynyt kipu viittaa mm. labrumin vaurioon (Bankart), kierinkalvosimen vammaan tai epästabiiliuteen. MRI kuvaa pehmytkudokset parhaiten. MR-artrografia (nivelensisäinen varjoaine) on vielä tarkempi nivelhuulen vaurioiden havaitsemisessa.
+MRI, koska todnäk jokin pehmytkudosvaurio taustalla. Nuorella potilaalla olkapään sijoiltaanmenon jälkeinen pitkittynyt kipu viittaa mm. labrumin vaurioon (Bankart), kiertäjäkalvosimen vammaan tai epästabiiliuteen. MRI kuvaa pehmytkudokset parhaiten. MR-artrografia (nivelensisäinen varjoaine) on vielä tarkempi nivelhuulen vaurioiden havaitsemisessa.
 
   </div>
 </div>
@@ -138,7 +138,7 @@ Ei vaihtoehtoja, koita vastata ilman apuja.
   <div class="solution-content">
       
       
-RTG heti (aina herkästi vammoissa ja varsinkin veripolvitilanteissa -> voidaan arvioida kongurenssia ja murtumia) ja MRI (voidaan arvioida nivelsidevaurioita tarkasti; positiivinen vetilaatikko eteen viittaa erityisesti ACL-repeämään) seuraavaksi kiireellisesti (1-2vk). 
+RTG heti (aina herkästi vammoissa ja varsinkin veripolvitilanteissa -> voidaan arvioida kongruenssia ja murtumia) ja MRI (voidaan arvioida nivelsidevaurioita tarkasti; positiivinen vetolaatikko eteen viittaa erityisesti ACL-repeämään) seuraavaksi kiireellisesti (1-2vk). 
 
 Mikäli nivelet paikoillaan ja murtumia ei näy niin ei päivystyksellistä tarvetta jatkohoidolle tai kuvantamiselle.
 
@@ -217,7 +217,7 @@ Kun virittävä RF-pulssi päättyy, pyrkii systeemi palautumaan perustilaansa e
   </div>
 </div>
 
-## MRI edut Uä nähden {#MRIedut}
+## MRI edut UÄ nähden {#MRIedut}
 
 - a. ei ionisoivaa säteilyä
 - b. parempi paikkatunnistuskyky
@@ -406,7 +406,7 @@ Kun nivelessä on nestettä, kapseli pullistuu ja nostaa rasvapatjat näkyviin: 
   <div class="solution-content">
       a
 
-Kilpirauhasen biopsiat tehdään UÄ-ohjauksella tehdään kilpirauhasen biopsiat; UÄ on muutenkin kilpirauhasen paras kuvantamismenetelmä. 
+Kilpirauhasen biopsiat tehdään UÄ-ohjauksella; UÄ on muutenkin kilpirauhasen paras kuvantamismenetelmä. 
   </div>
 </div>
 
