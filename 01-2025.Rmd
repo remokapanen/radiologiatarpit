@@ -472,7 +472,7 @@ Ei vaihtoehtoja, koita vastata ilman apuja.
     Vastaus
   </button>
   <div class="solution-content">
-      a
+      
 
 Vuoden takainen kaatuminen ja nyt kuormituksessa ilmenevä naksahtelu viittaavat ranteen sidekudosvaurioon, jota natiiviröntgen ei näytä. Tällaisessa tilanteessa MRI on paras, koska se kuvaa pehmytkudokset, siteet ja rustot parhaiten. Ei myöskään ole päivystyksellinen tilanne -> MRI hyvä
 
@@ -491,7 +491,7 @@ Ei vaihtoehtoja, koita vastata ilman apuja.
   </button>
   <div class="solution-content">
       
-Ei, jos vain tyypillistä ripulia. Viikon kestänyt ripuli on useimmiten infektio (virus tai bakteeri), jonka diagnoosi perustuu esitietoihin, kliiniseen tutkimukseen ja tarvittaessa ulostenäytteisiin (bakteeriviljely, Clostridioides difficile-toksiinit, mahdollisesti loiset). Kuvantaminen ei muuta hoitoa.
+Ei tarvitse kuvantaa, jos vain tyypillistä ripulia. Viikon kestänyt ripuli on useimmiten infektio (virus tai bakteeri), jonka diagnoosi perustuu esitietoihin, kliiniseen tutkimukseen ja tarvittaessa ulostenäytteisiin (bakteeriviljely, Clostridioides difficile-toksiinit, mahdollisesti loiset). Kuvantaminen ei muuta hoitoa.
 
 Ripulissa kolonoskopia on muutenkin ensisijainen kuvantamismenetelmä, mutta yleensä indikoitu vasta, kun pitkittynyt ripuli (kesto>4vk). 
 
@@ -552,9 +552,9 @@ Ei esimerkkikuvaa. Millainen olisi tyypillinen löydös thx-rtg:ssa?
   </button>
   <div class="solution-content">
       
-Tyypillistä on hienojakoinen laajalle nevinnyt nodulaarinen tiiviys; yksittäiset leesiot ovat tyypillisesti pieniä (1-3mm; ylälohkoissa voi olla jopa 6mm). 
+Tyypillistä on hienojakoinen laajalle levinnyt nodulaarinen tiiviys; yksittäiset leesiot ovat tyypillisesti pieniä (1-3mm; ylälohkoissa voi olla jopa 6mm). 
 
-Erotusddx: sarkoidoosin keuhkomuutokset paikantuvat usein ylälohkoihin ja hilumien ympärille ja yksittäiset leesiot ovat hieman kookkaampia kuin miliaarisessa tuberkuloosissa
+Erotusdx: sarkoidoosin keuhkomuutokset paikantuvat usein ylälohkoihin ja hilumien ympärille ja yksittäiset leesiot ovat hieman kookkaampia kuin miliaarisessa tuberkuloosissa
 
 
 ---
@@ -621,7 +621,7 @@ Ei tarkempaa kysymyksenasettelua. Mitä tarkoitetaan testin sensitiivisyydellä?
   </button>
   <div class="solution-content">
 
-Tarkoittaa sairaan potilaan todennäköisyyttä saada positiivinen testitulos -> korkea herkkyys on hyvä, jos halutaan poissulkea tauteja (nappaa hyvin positiiviset, mutta kääntöpuolella voi antaa helposti vääriä positiivisia, jos tarkkuus ei ole korkea. 
+Tarkoittaa sairaan potilaan todennäköisyyttä saada positiivinen testitulos -> korkea herkkyys on hyvä, jos halutaan poissulkea tauteja (nappaa hyvin positiiviset, mutta kääntöpuolella voi antaa helposti vääriä positiivisia, jos tarkkuus ei ole korkea) 
 
 ![](images/herkkyys.png)
 
@@ -730,9 +730,9 @@ Oli myös toinen tärppi, jossa oli kaksi eri nilkka-rtg:tä ja kysyttiin onko m
 
 Weber A = fibulamurtuma niveltason eli syndesmoositason alapuolella
 
-B-murtumassa syndesmoositasolla
+B - murtuma syndesmoositasolla
 
-C- murtumassa yläpuolella
+C - murtuma syndesmoositason yläpuolella
 
 
 ![](images/weberit.png)
